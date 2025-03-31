@@ -133,11 +133,7 @@ function UpdateMapWithCustomData() {
     myMapper.clearPins()
 
     $.getJSON("data/"+ myMapper.getZone() +".json", function(json) {
-        console.log(json); // this will show the info it in firebug console
-    });
-    const pinsWithNames = []
-    
-    pinsWithNames.forEach(pin => {
+        json.forEach(pin => {
         const pinElement = myMapper.getPin(myMapper.level);
         pinElement.x = pin.x;
         pinElement.y = pin.y;
@@ -149,6 +145,10 @@ function UpdateMapWithCustomData() {
         };
         pinElement.a.onmouseout = $WH.Tooltip.hide;
     });
+});
+
+    
+   
 }
 
 </script>
