@@ -133,23 +133,20 @@ function UpdateMapWithCustomData() {
 
     $.getJSON("data/"+ myMapper.getZone() +".json", function(json) {
         json.forEach(pin => {
-        const pinElement = myMapper.getPin(myMapper.level);
-        pinElement.x = pin.x;
-        pinElement.y = pin.y;
-        pinElement.style.left = `${pin.x}%`;
-        pinElement.style.top = `${pin.y}%`;
-        pinElement.a.tt = '<b class="q">'+ pin.name +'</b> ('+ pin.x +', '+ pin.y +')';
-        pinElement.a.onmouseover = function () {
-            $WH.Tooltip.show(this, this.tt, 4, 0); 
-        };
-        pinElement.a.onmouseout = $WH.Tooltip.hide;
+            const pinElement = myMapper.getPin(myMapper.level);
+            pinElement.x = pin.x;
+            pinElement.y = pin.y;
+            pinElement.style.left = `${pin.x}%`;
+            pinElement.style.top = `${pin.y}%`;
+            pinElement.a.tt = '<b class="q">'+ pin.name +'</b> ('+ pin.x +', '+ pin.y +')';
+            pinElement.a.onmouseover = function () {
+                $WH.Tooltip.show(this, this.tt, 4, 0); 
+            };
+            pinElement.a.onmouseout = $WH.Tooltip.hide;
+        });
     });
-});
-//UpdateMapWithCustomData()
-    
-   
 }
-
+UpdateMapWithCustomData()
 </script>
 
 
