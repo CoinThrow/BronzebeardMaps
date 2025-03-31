@@ -1,0 +1,262 @@
+[
+   {
+      "x":27,
+      "y":59.8,
+      "name":"Biggs's Spare Equipment"
+   },
+   {
+      "x":49,
+      "y":29.3,
+      "name":"Draenic Axe"
+   },
+   {
+      "x":61,
+      "y":40.4,
+      "name":"Unusual Emerald Scale"
+   },
+   {
+      "x":75,
+      "y":65.8,
+      "name":"Choker of Hakkar"
+   },
+   {
+      "x":89,
+      "y":78.6,
+      "name":"Distant Wanderer's Pack"
+   },
+   {
+      "x":91,
+      "y":27.3,
+      "name":"Murloc Crown"
+   },
+   {
+      "x":13.5,
+      "y":68.7,
+      "name":"Itharius's Jar"
+   },
+   {
+      "x":15.5,
+      "y":36.9,
+      "name":"Gnomish Shotgun"
+   },
+   {
+      "x":17.1,
+      "y":50.8,
+      "name":"Splinterspear Armor Crate"
+   },
+   {
+      "x":17.4,
+      "y":53.6,
+      "name":"Blindweed"
+   },
+   {
+      "x":17.4,
+      "y":50.9,
+      "name":"Fresh Water Bucket"
+   },
+   {
+      "x":22.7,
+      "y":48.3,
+      "name":"Sha-Bane Staff"
+   },
+   {
+      "x":24.6,
+      "y":32.4,
+      "name":"Light of Dawn"
+   },
+   {
+      "x":25.2,
+      "y":30.2,
+      "name":"Exile's Amulet"
+   },
+   {
+      "x":30.3,
+      "y":57.9,
+      "name":"Broken Crate"
+   },
+   {
+      "x":30.8,
+      "y":41.4,
+      "name":"Rusted Shield"
+   },
+   {
+      "x":33.5,
+      "y":69.5,
+      "name":"Cracked Hearthstone of the Fallen"
+   },
+   {
+      "x":37.2,
+      "y":29.3,
+      "name":"Scout's Supplies"
+   },
+   {
+      "x":47.8,
+      "y":39.5,
+      "name":"Marsh Adventurer's Boots"
+   },
+   {
+      "x":48.9,
+      "y":68.1,
+      "name":"Nethergarde Mining Cap"
+   },
+   {
+      "x":49.7,
+      "y":49.4,
+      "name":"Cartographer's Supplies"
+   },
+   {
+      "x":5.3,
+      "y":31.1,
+      "name":"Mire Leaves"
+   },
+   {
+      "x":58.6,
+      "y":79.1,
+      "name":"Discharged Sawblade"
+   },
+   {
+      "x":61.1,
+      "y":23.4,
+      "name":"Fallow Basket"
+   },
+   {
+      "x":61.9,
+      "y":84,
+      "name":"Marsh Bonebreaker"
+   },
+   {
+      "x":62.8,
+      "y":52.7,
+      "name":"Ruby Giant's Eye"
+   },
+   {
+      "x":63.5,
+      "y":88.6,
+      "name":"Swamp Talker's Crossbow"
+   },
+   {
+      "x":64.2,
+      "y":49.1,
+      "name":"Atal'ai Fisher's Boots"
+   },
+   {
+      "x":64.6,
+      "y":18.4,
+      "name":"Half-Buried Crate"
+   },
+   {
+      "x":70.1,
+      "y":96.9,
+      "name":"Forbidding Locker"
+   },
+   {
+      "x":70.2,
+      "y":50.9,
+      "name":"Defiled Necklace"
+   },
+   {
+      "x":70.5,
+      "y":66,
+      "name":"Icon of Blood"
+   },
+   {
+      "x":70.6,
+      "y":45,
+      "name":"Bound Atal'ai Totem"
+   },
+   {
+      "x":70.7,
+      "y":17.3,
+      "name":"Gore Covered Bow"
+   },
+   {
+      "x":70.8,
+      "y":47.1,
+      "name":"Idol to Hakkar"
+   },
+   {
+      "x":71.1,
+      "y":47,
+      "name":"Shoulderguards of the Ancient Prophet"
+   },
+   {
+      "x":71.1,
+      "y":2,
+      "name":"The Wanderer's Stirring Rod"
+   },
+   {
+      "x":71.8,
+      "y":61.6,
+      "name":"Mossy Footlocker"
+   },
+   {
+      "x":73.9,
+      "y":60.8,
+      "name":"Emerald Tear"
+   },
+   {
+      "x":74.3,
+      "y":40.6,
+      "name":"Blossom of Sorrow"
+   },
+   {
+      "x":75.5,
+      "y":44.9,
+      "name":"Lantern of Endless Sorrow"
+   },
+   {
+      "x":76.1,
+      "y":47.6,
+      "name":"Kazkaz's Ceremonial Mask"
+   },
+   {
+      "x":76.4,
+      "y":43.5,
+      "name":"Sharpened Dragon Bone"
+   },
+   {
+      "x":76.8,
+      "y":25.7,
+      "name":"Loose Stone"
+   },
+   {
+      "x":77.1,
+      "y":39.6,
+      "name":"Murk Spitter's Refined Poison Samples"
+   },
+   {
+      "x":77.1,
+      "y":39.7,
+      "name":"Atal'ai Alchemy Supplies"
+   },
+   {
+      "x":78.7,
+      "y":44.5,
+      "name":"Sunken Axe"
+   },
+   {
+      "x":78.8,
+      "y":56.8,
+      "name":"Holy Atal'ai Band"
+   },
+   {
+      "x":81.9,
+      "y":81.2,
+      "name":"Misty Reed Barrel"
+   },
+   {
+      "x":82.7,
+      "y":93.7,
+      "name":"Sawtooth Jaw"
+   },
+   {
+      "x":82.9,
+      "y":66.4,
+      "name":"Spear of Emerald"
+   },
+   {
+      "x":88.9,
+      "y":56.9,
+      "name":"Crimson Blade"
+   }
+]
