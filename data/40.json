@@ -1,0 +1,252 @@
+[
+   {
+      "x":26,
+      "y":73.5,
+      "name":"Quel'Thalas Sunken Treasure Chest"
+   },
+   {
+      "x":36,
+      "y":36.5,
+      "name":"Westfall Supply Cache"
+   },
+   {
+      "x":46,
+      "y":19,
+      "name":"People's Militia Stolen Badge"
+   },
+   {
+      "x":46,
+      "y":38.8,
+      "name":"Sharpened Chopper"
+   },
+   {
+      "x":57,
+      "y":80.5,
+      "name":"Dirt Covered Sword"
+   },
+   {
+      "x":70,
+      "y":74.7,
+      "name":"Klaven's Wardrobe"
+   },
+   {
+      "x":23.4,
+      "y":41.9,
+      "name":"Loosely Packed Dirt"
+   },
+   {
+      "x":25.4,
+      "y":16,
+      "name":"Fisherman's Last Wish"
+   },
+   {
+      "x":27.9,
+      "y":60,
+      "name":"Salvaged Goods"
+   },
+   {
+      "x":29.2,
+      "y":49.5,
+      "name":"Peculiar Gold Nugget"
+   },
+   {
+      "x":29.5,
+      "y":27,
+      "name":"Quel'Thalas Sunken Treasure Chest"
+   },
+   {
+      "x":31.1,
+      "y":44.1,
+      "name":"Quarry Sledge"
+   },
+   {
+      "x":33.6,
+      "y":86.5,
+      "name":"Quel'Thalas Sunken Treasure Chest"
+   },
+   {
+      "x":34.2,
+      "y":16.4,
+      "name":"Waterlogged Trunk"
+   },
+   {
+      "x":34.5,
+      "y":15.7,
+      "name":"Quel'Thalas Sunken Treasure Chest"
+   },
+   {
+      "x":35.7,
+      "y":90.3,
+      "name":"Rower's Footlocker"
+   },
+   {
+      "x":38.6,
+      "y":57.9,
+      "name":"Defias Magus Staff"
+   },
+   {
+      "x":40.1,
+      "y":67.9,
+      "name":"Defias Remains"
+   },
+   {
+      "x":41.1,
+      "y":47.6,
+      "name":"Stashed Goods"
+   },
+   {
+      "x":41.4,
+      "y":66.4,
+      "name":"Defias Rusty Gun Rack"
+   },
+   {
+      "x":41.7,
+      "y":29.3,
+      "name":"Heavy Bone"
+   },
+   {
+      "x":42.9,
+      "y":72.8,
+      "name":"Defias Mage Stash"
+   },
+   {
+      "x":42.9,
+      "y":88.5,
+      "name":"People's Militia Armaments"
+   },
+   {
+      "x":43.8,
+      "y":66.5,
+      "name":"Sack of Defias Gear"
+   },
+   {
+      "x":44.5,
+      "y":23.8,
+      "name":"Unstable Manastorm Portal"
+   },
+   {
+      "x":44.7,
+      "y":14,
+      "name":"Gnoll Cleaver"
+   },
+   {
+      "x":46.3,
+      "y":59,
+      "name":"Heavy Stompers"
+   },
+   {
+      "x":46.8,
+      "y":19.4,
+      "name":"Mysterious Lantern"
+   },
+   {
+      "x":47.9,
+      "y":46.7,
+      "name":"Defias Toe Knife"
+   },
+   {
+      "x":48.5,
+      "y":20.2,
+      "name":"Storage Crate"
+   },
+   {
+      "x":50.5,
+      "y":7.7,
+      "name":"Quel'Thalas Sunken Treasure Chest"
+   },
+   {
+      "x":51.4,
+      "y":40.1,
+      "name":"Defias Throwing Knife"
+   },
+   {
+      "x":51.4,
+      "y":40.2,
+      "name":"Knife Prop"
+   },
+   {
+      "x":52.8,
+      "y":53.2,
+      "name":"Travel Sack"
+   },
+   {
+      "x":53.2,
+      "y":79.1,
+      "name":"Stolen Brew"
+   },
+   {
+      "x":56.3,
+      "y":30.6,
+      "name":"Unlocked Chest"
+   },
+   {
+      "x":56.4,
+      "y":19.2,
+      "name":"Liquid Arcane"
+   },
+   {
+      "x":56.4,
+      "y":30.2,
+      "name":"Salma's Summer Wardrobe"
+   },
+   {
+      "x":56.7,
+      "y":47.5,
+      "name":"Sentinel's Blade"
+   },
+   {
+      "x":56.8,
+      "y":67,
+      "name":"Stolen Supplies"
+   },
+   {
+      "x":58.9,
+      "y":43.3,
+      "name":"Charred Strongbox"
+   },
+   {
+      "x":58.9,
+      "y":43.3,
+      "name":"Dirt Prop"
+   },
+   {
+      "x":59.3,
+      "y":5.6,
+      "name":"Thunder Falls Enchanted Branches"
+   },
+   {
+      "x":59.3,
+      "y":5.6,
+      "name":"Magic Circle Visual"
+   },
+   {
+      "x":59.9,
+      "y":18.5,
+      "name":"Field Boots"
+   },
+   {
+      "x":60.8,
+      "y":58.2,
+      "name":"Defias Handshake"
+   },
+   {
+      "x":63.2,
+      "y":21.3,
+      "name":"Forgotten Shipment"
+   },
+   {
+      "x":66.6,
+      "y":30.8,
+      "name":"Riverpaw Pack Chieftain's Lunch"
+   },
+   {
+      "x":71.5,
+      "y":73.9,
+      "name":"Madness Cursed Notes"
+   },
+   {
+      "x":73.5,
+      "y":65.2,
+      "name":"Spider Ichor Sample"
+   }
+]
