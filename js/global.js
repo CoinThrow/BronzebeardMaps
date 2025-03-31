@@ -22860,7 +22860,7 @@ Mapper.prototype = {
         else if ($WH.isset('g_old') && g_old)
             type = 'old';
 
-        this.span.style.background = 'url(' + g_staticUrl + '/images/wow/maps/' + type + '/' + Mapper.sizes[this.zoom][2] + '/' + map + '.jpg)';
+        this.span.style.background = 'url('https:\/\/db.ascension.gg/static/images/wow/maps/' + type + '/' + Mapper.sizes[this.zoom][2] + '/' + map + '.jpg)';
 
         if (this.overlay)
             this.overlaySpan.style.background = 'url(' + g_staticUrl + '/images/wow/maps/overlay/' + Mapper.sizes[this.zoom][2] + '/' + map + '.png)';
