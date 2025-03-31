@@ -1,0 +1,187 @@
+[
+   {
+      "x":62,
+      "y":75.5,
+      "name":"Abandoned Greatsword"
+   },
+   {
+      "x":69,
+      "y":24.3,
+      "name":"Heavy Ogre Axe"
+   },
+   {
+      "x":79,
+      "y":51.8,
+      "name":"Dwarf Hunter Corpse"
+   },
+   {
+      "x":79,
+      "y":51.8,
+      "name":"Cobweb"
+   },
+   {
+      "x":18.1,
+      "y":83.2,
+      "name":"Caravan Barrel"
+   },
+   {
+      "x":24.7,
+      "y":17.8,
+      "name":"Dwarven Hatchet"
+   },
+   {
+      "x":25.3,
+      "y":43.6,
+      "name":"Tattered Cloth Roll"
+   },
+   {
+      "x":26.3,
+      "y":57.3,
+      "name":"Stolen Shipment"
+   },
+   {
+      "x":26.5,
+      "y":31.6,
+      "name":"Vermin Cane"
+   },
+   {
+      "x":32.7,
+      "y":68.5,
+      "name":"Unstable Manastorm Portal"
+   },
+   {
+      "x":34.3,
+      "y":27,
+      "name":"Grizlak's Candle"
+   },
+   {
+      "x":34.6,
+      "y":26.4,
+      "name":"Miner's League Vest"
+   },
+   {
+      "x":34.9,
+      "y":76.7,
+      "name":"Trogg Crate"
+   },
+   {
+      "x":35.8,
+      "y":15.8,
+      "name":"Tunnel Rat Pike"
+   },
+   {
+      "x":36.6,
+      "y":60.6,
+      "name":"Sword of Stone"
+   },
+   {
+      "x":39.6,
+      "y":39.1,
+      "name":"Storage Crate"
+   },
+   {
+      "x":47.4,
+      "y":64.1,
+      "name":"Wrecked Boat Prop"
+   },
+   {
+      "x":47.4,
+      "y":64.4,
+      "name":"Muddy Shoulderpad"
+   },
+   {
+      "x":47.5,
+      "y":14.9,
+      "name":"Ol' Blunderbuss"
+   },
+   {
+      "x":47.6,
+      "y":18.4,
+      "name":"Missing Bobber"
+   },
+   {
+      "x":52.4,
+      "y":69.4,
+      "name":"Boom Barrel"
+   },
+   {
+      "x":54.2,
+      "y":53.8,
+      "name":"Forgotten Remains"
+   },
+   {
+      "x":54.2,
+      "y":53.9,
+      "name":"Brambley's Dagger"
+   },
+   {
+      "x":54.4,
+      "y":27,
+      "name":"Plundered Ring"
+   },
+   {
+      "x":55.5,
+      "y":38.7,
+      "name":"Sinter Wive's Rope"
+   },
+   {
+      "x":57.7,
+      "y":28.8,
+      "name":"Muck Coated Pendant"
+   },
+   {
+      "x":58.9,
+      "y":13.6,
+      "name":"Dark Iron Collar"
+   },
+   {
+      "x":62.8,
+      "y":48.3,
+      "name":"Wreckage Piece"
+   },
+   {
+      "x":68.1,
+      "y":66.1,
+      "name":"Galgosh's Other Bone"
+   },
+   {
+      "x":68.6,
+      "y":59.2,
+      "name":"EZ Muzzle Loader Kit"
+   },
+   {
+      "x":71.6,
+      "y":21.6,
+      "name":"Bailor's Ore"
+   },
+   {
+      "x":77.1,
+      "y":74.8,
+      "name":"Large Buzzard Talon"
+   },
+   {
+      "x":77.5,
+      "y":42.6,
+      "name":"Special Brewing Gear"
+   },
+   {
+      "x":79.1,
+      "y":51.5,
+      "name":"Bell Rope"
+   },
+   {
+      "x":79.1,
+      "y":51.5,
+      "name":"Plunger"
+   },
+   {
+      "x":79.5,
+      "y":14.5,
+      "name":"Chok'sul's Basket"
+   },
+   {
+      "x":80.5,
+      "y":52.5,
+      "name":"Escape Rope"
+   }
+]
