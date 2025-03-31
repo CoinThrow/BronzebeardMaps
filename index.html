@@ -129,7 +129,8 @@
 
 <script>
 //Javscript:
-myMapper.clearPins()
+function UpdateMapWithCustomData() {
+    myMapper.clearPins()
 
 $.getJSON(myMapper.getZone() +".json", function(json) {
     console.log(json); // this will show the info it in firebug console
@@ -148,6 +149,8 @@ pinsWithNames.forEach(pin => {
     };
     pinElement.a.onmouseout = $WH.Tooltip.hide;
 });
+}
+
 </script>
 
 
