@@ -73,6 +73,7 @@ function ma_ChooseZone(s) {
         }
 
         myMapper.setZone(s.value);
+        UpdateMapWithCustomData()
     }
 
     s.selectedIndex = 0;
