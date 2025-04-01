@@ -1,0 +1,272 @@
+[
+   {
+      "x":64,
+      "y":60.9,
+      "name":"Dorius' Shield"
+   },
+   {
+      "x":65.4,
+      "y":44.5,
+      "name":"Spider Silk"
+   },
+   {
+      "x":63.7,
+      "y":76.6,
+      "name":"Leatherworking Book"
+   },
+   {
+      "x":51.3,
+      "y":67.4,
+      "name":"Dark Iron Supplies"
+   },
+   {
+      "x":39,
+      "y":72.6,
+      "name":"Lava Hardened Rock"
+   },
+   {
+      "x":22.9,
+      "y":55.2,
+      "name":"Scorching Dagger"
+   },
+   {
+      "x":20.7,
+      "y":80.1,
+      "name":"Dark Iron Corpse"
+   },
+   {
+      "x":29.5,
+      "y":26.1,
+      "name":"Twilight Axe"
+   },
+   {
+      "x":13.7,
+      "y":34.4,
+      "name":"Steam Pressure Totem"
+   },
+   {
+      "x":38,
+      "y":62,
+      "name":"Jewelled Ring"
+   },
+   {
+      "x":31.7,
+      "y":51.3,
+      "name":"Rune Circle"
+   },
+   {
+      "x":55.4,
+      "y":48.2,
+      "name":"Hot Poker"
+   },
+   {
+      "x":46.3,
+      "y":49.4,
+      "name":"Travel Sack"
+   },
+   {
+      "x":39.7,
+      "y":54,
+      "name":"Dead Dwarf"
+   },
+   {
+      "x":36.9,
+      "y":32.9,
+      "name":"Dirt Mound"
+   },
+   {
+      "x":45.2,
+      "y":19,
+      "name":"Pile of Bones"
+   },
+   {
+      "x":42.4,
+      "y":31.1,
+      "name":"Dwarf Corpse"
+   },
+   {
+      "x":47.9,
+      "y":19.4,
+      "name":"Incendosaur Tooth"
+   },
+   {
+      "x":58.7,
+      "y":29.5,
+      "name":"Burning Corpse"
+   },
+   {
+      "x":69.5,
+      "y":33.7,
+      "name":"Iron Hammer"
+   },
+   {
+      "x":71.3,
+      "y":17.4,
+      "name":"Silkwrapped Object"
+   },
+   {
+      "x":32.3,
+      "y":100.6,
+      "name":"Mysterious Cache"
+   },
+   {
+      "x":53,
+      "y":51.9,
+      "name":"Mysterious Burning Stone"
+   },
+   {
+      "x":37.4,
+      "y":81.8,
+      "name":"Mysterious Orb"
+   },
+   {
+      "x":46.4,
+      "y":38.8,
+      "name":"Mysterious Ring Of Fire"
+   },
+   {
+      "x":73.8,
+      "y":75.3,
+      "name":"Ripped Diary Page"
+   },
+   {
+      "x":55.6,
+      "y":48,
+      "name":"Interrogator's Record"
+   },
+   {
+      "x":41.3,
+      "y":25.4,
+      "name":"Altar of Suntara"
+   },
+   {
+      "x":29.1,
+      "y":25.9,
+      "name":"Twilight Artifact"
+   },
+   {
+      "x":39,
+      "y":39.2,
+      "name":"Torch of Retribution"
+   },
+   {
+      "x":39,
+      "y":39.2,
+      "name":"Light of Retribution"
+   },
+   {
+      "x":38.8,
+      "y":39,
+      "name":"Hoard of the Black Dragonflight"
+   },
+   {
+      "x":37.8,
+      "y":39.3,
+      "name":"Charred Dark Iron Remains"
+   },
+   {
+      "x":37.7,
+      "y":39.4,
+      "name":"Mutilated Dark Iron Remains"
+   },
+   {
+      "x":38.1,
+      "y":38.8,
+      "name":"Mutilated Dark Iron Remains"
+   },
+   {
+      "x":37.6,
+      "y":38.9,
+      "name":"Charred Dark Iron Remains"
+   },
+   {
+      "x":45.6,
+      "y":28.9,
+      "name":"Elder's Pipe"
+   },
+   {
+      "x":40.8,
+      "y":34.9,
+      "name":"Wrench"
+   },
+   {
+      "x":38,
+      "y":54.6,
+      "name":"Lost Mail Armor"
+   },
+   {
+      "x":40.5,
+      "y":49.2,
+      "name":"Two-Handed Axe"
+   },
+   {
+      "x":48.8,
+      "y":55,
+      "name":"Scoped Rifle"
+   },
+   {
+      "x":41.6,
+      "y":43.9,
+      "name":"Burned Blade Shiv"
+   },
+   {
+      "x":43,
+      "y":51.3,
+      "name":"Dark Iron Hood"
+   },
+   {
+      "x":45.3,
+      "y":38.9,
+      "name":"Bag of Disciplinary Tools"
+   },
+   {
+      "x":41.2,
+      "y":21.5,
+      "name":"Broken Chain"
+   },
+   {
+      "x":56.6,
+      "y":81.3,
+      "name":"Important Belongings"
+   },
+   {
+      "x":34.9,
+      "y":82.4,
+      "name":"Scorched Greatblade"
+   },
+   {
+      "x":25.9,
+      "y":38.6,
+      "name":"Eye of Twilight"
+   },
+   {
+      "x":34.8,
+      "y":51.7,
+      "name":"Magic Staff"
+   },
+   {
+      "x":28.2,
+      "y":63.6,
+      "name":"Freedom Falchion"
+   },
+   {
+      "x":97.3,
+      "y":-5.5,
+      "name":"Caravan Barrel"
+   },
+   {
+      "x":65.5,
+      "y":44.6,
+      "name":"Spider Eggs"
+   },
+   {
+      "x":48,
+      "y":44.2,
+      "name":"Incendiary Ammo Cache"
+   },
+   {
+      "x":26,
+      "y":38.7,
+      "name":"Hand-Smoothed Pyrestone"
+   }
+]
