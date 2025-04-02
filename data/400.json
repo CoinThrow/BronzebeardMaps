@@ -1,0 +1,252 @@
+[
+   {
+      "x":23,
+      "y":25.3,
+      "name":"Caravaner's Chest"
+   },
+   {
+      "x":39,
+      "y":25.6,
+      "name":"Box"
+   },
+   {
+      "x":39,
+      "y":25.6,
+      "name":"Cursed Scepter"
+   },
+   {
+      "x":52,
+      "y":54.7,
+      "name":"Needlewind Crossbow"
+   },
+   {
+      "x":10.8,
+      "y":40.5,
+      "name":"Trapper's Spear"
+   },
+   {
+      "x":18.2,
+      "y":40.7,
+      "name":"Frayed Cord"
+   },
+   {
+      "x":18.8,
+      "y":20.9,
+      "name":"Galak Smasher"
+   },
+   {
+      "x":21.1,
+      "y":32.7,
+      "name":"Stray Pack Kodo Satchel"
+   },
+   {
+      "x":21.2,
+      "y":37.9,
+      "name":"Gnawed Kodo Bone"
+   },
+   {
+      "x":26.1,
+      "y":56.5,
+      "name":"Harpy Feather"
+   },
+   {
+      "x":31.1,
+      "y":45.7,
+      "name":"Infused Staff"
+   },
+   {
+      "x":31.6,
+      "y":24.7,
+      "name":"Tattered Remains"
+   },
+   {
+      "x":31.9,
+      "y":32.2,
+      "name":"Grimtotem Skull Smasher"
+   },
+   {
+      "x":35.5,
+      "y":35.2,
+      "name":"Strange Trinket"
+   },
+   {
+      "x":37.2,
+      "y":25.9,
+      "name":"Unstable Manastorm Portal"
+   },
+   {
+      "x":37.4,
+      "y":56.1,
+      "name":"Deadman's Signet"
+   },
+   {
+      "x":38.3,
+      "y":35.7,
+      "name":"Darkcloud Totem"
+   },
+   {
+      "x":39.2,
+      "y":41.8,
+      "name":"Grimtotem Blade"
+   },
+   {
+      "x":40.3,
+      "y":36.3,
+      "name":"Galak Shortbow"
+   },
+   {
+      "x":41.3,
+      "y":48.3,
+      "name":"Lost Shipment"
+   },
+   {
+      "x":42.3,
+      "y":33.6,
+      "name":"Drowned Diver's Signet"
+   },
+   {
+      "x":42.3,
+      "y":33.6,
+      "name":"Scuba Slayer's Blade"
+   },
+   {
+      "x":42.3,
+      "y":33.6,
+      "name":"Drowned Diver's Helmet"
+   },
+   {
+      "x":43.4,
+      "y":32.7,
+      "name":"Damaged Chest"
+   },
+   {
+      "x":43.6,
+      "y":33.4,
+      "name":"Rusty Hatchet"
+   },
+   {
+      "x":43.6,
+      "y":33.4,
+      "name":"Iron Deposit"
+   },
+   {
+      "x":53.7,
+      "y":41.5,
+      "name":"Highlands Chest"
+   },
+   {
+      "x":54.1,
+      "y":41.3,
+      "name":"Strange Wind Totem"
+   },
+   {
+      "x":56.1,
+      "y":49.4,
+      "name":"Cloud Serpent Feather"
+   },
+   {
+      "x":6.5,
+      "y":6.7,
+      "name":"Accumulated Moonlight"
+   },
+   {
+      "x":63.7,
+      "y":86.6,
+      "name":"Silithid Wall Creeper"
+   },
+   {
+      "x":65.5,
+      "y":48.6,
+      "name":"Forgotten Pauldron"
+   },
+   {
+      "x":67.5,
+      "y":64.4,
+      "name":"Leftover Kodo War Drum"
+   },
+   {
+      "x":7.9,
+      "y":19.2,
+      "name":"Mysterious Spirit"
+   },
+   {
+      "x":70.6,
+      "y":104.9,
+      "name":"Stylish Racing Hat"
+   },
+   {
+      "x":70.9,
+      "y":84.8,
+      "name":"Rustmaul Artifact"
+   },
+   {
+      "x":71.5,
+      "y":73,
+      "name":"Abandoned Moonshine"
+   },
+   {
+      "x":73.6,
+      "y":58,
+      "name":"Racing Goggles"
+   },
+   {
+      "x":78.7,
+      "y":62.5,
+      "name":"Radiating Green Stone"
+   },
+   {
+      "x":78.9,
+      "y":89.2,
+      "name":"Tahonda Chest"
+   },
+   {
+      "x":80.1,
+      "y":77.1,
+      "name":"Useless Racing Parts"
+   },
+   {
+      "x":80.5,
+      "y":76,
+      "name":"Illegal Racing Tech"
+   },
+   {
+      "x":81.6,
+      "y":61.6,
+      "name":"Runway Scraper"
+   },
+   {
+      "x":82.3,
+      "y":54.6,
+      "name":"Pirate's Booty"
+   },
+   {
+      "x":82.3,
+      "y":54.6,
+      "name":"Pirate's Booty"
+   },
+   {
+      "x":84.3,
+      "y":82.2,
+      "name":"Rickety Invention"
+   },
+   {
+      "x":84.3,
+      "y":82,
+      "name":"Racing Boots"
+   },
+   {
+      "x":84.4,
+      "y":82,
+      "name":"Power Converter"
+   },
+   {
+      "x":87.6,
+      "y":65.6,
+      "name":"Abandoned Trousers"
+   },
+   {
+      "x":87.7,
+      "y":65.5,
+      "name":"Sizzling Bottle"
+   }
+]
