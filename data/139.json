@@ -1,0 +1,347 @@
+[
+   {
+      "x":22.8,
+      "y":31.6,
+      "name":"Mysterious Curse"
+   },
+   {
+      "x":72.5,
+      "y":70,
+      "name":"Mysterious Weapon Rack"
+   },
+   {
+      "x":75.5,
+      "y":52.3,
+      "name":"Mysterious Healing Book"
+   },
+   {
+      "x":75.5,
+      "y":52.3,
+      "name":"Mysterious Healing Book"
+   },
+   {
+      "x":75.5,
+      "y":52.3,
+      "name":"Mysterious Healing Book"
+   },
+   {
+      "x":49.4,
+      "y":14.5,
+      "name":"Sliver of Quel'dorei Holy Energy"
+   },
+   {
+      "x":5.7,
+      "y":35.2,
+      "name":"Shield RPG PROP"
+   },
+   {
+      "x":5.7,
+      "y":35.3,
+      "name":"Severed Talon"
+   },
+   {
+      "x":24.2,
+      "y":78.4,
+      "name":"Casket RPG PROP"
+   },
+   {
+      "x":24.2,
+      "y":78.4,
+      "name":"Mossflayer Corpse"
+   },
+   {
+      "x":34.1,
+      "y":64.4,
+      "name":"Scourge flag RPG PROP"
+   },
+   {
+      "x":34,
+      "y":64.4,
+      "name":"Tombstone  RPG PROP"
+   },
+   {
+      "x":34,
+      "y":64.3,
+      "name":"Sitting Skeleton  RPG PROP"
+   },
+   {
+      "x":34,
+      "y":64.3,
+      "name":"Argent Shoulder RPG PROP"
+   },
+   {
+      "x":34,
+      "y":64.3,
+      "name":"Fallen Sentry Armor"
+   },
+   {
+      "x":36,
+      "y":43.8,
+      "name":"Fungal Axe"
+   },
+   {
+      "x":37.7,
+      "y":80,
+      "name":"Earie Fruit"
+   },
+   {
+      "x":56.9,
+      "y":74.2,
+      "name":"Lost Totem"
+   },
+   {
+      "x":48.1,
+      "y":62.2,
+      "name":"Tainted Blade"
+   },
+   {
+      "x":45.6,
+      "y":52.5,
+      "name":"Adventurer's Boots"
+   },
+   {
+      "x":45.6,
+      "y":52.4,
+      "name":"Sword RPG PROP"
+   },
+   {
+      "x":64.8,
+      "y":24.5,
+      "name":"Corpsef RPG PROP"
+   },
+   {
+      "x":64.9,
+      "y":24.5,
+      "name":"Stuck Axe"
+   },
+   {
+      "x":77.5,
+      "y":73.1,
+      "name":"Scarlet Libram"
+   },
+   {
+      "x":81.5,
+      "y":43.2,
+      "name":"SCourge Brazier RPG PROP"
+   },
+   {
+      "x":80.6,
+      "y":42.6,
+      "name":"Ebon Blade Banner RPG PROP"
+   },
+   {
+      "x":81,
+      "y":42.9,
+      "name":"Fog RPG PROP"
+   },
+   {
+      "x":74.9,
+      "y":78.6,
+      "name":"Scourge table RPG PROP"
+   },
+   {
+      "x":75.1,
+      "y":78.7,
+      "name":"Undead Hook RPG PROP"
+   },
+   {
+      "x":74.9,
+      "y":78.6,
+      "name":"Cauterizing Needle"
+   },
+   {
+      "x":82.4,
+      "y":79.4,
+      "name":"Scarlet Gavel"
+   },
+   {
+      "x":82.4,
+      "y":79.3,
+      "name":"Podium RPG PROP"
+   },
+   {
+      "x":81.6,
+      "y":78.5,
+      "name":"Crimson Banner RPG PROP"
+   },
+   {
+      "x":82.5,
+      "y":79.4,
+      "name":"Crimson Shield Wall RPG PROP"
+   },
+   {
+      "x":82.4,
+      "y":79.3,
+      "name":"Book pile RPG PROP"
+   },
+   {
+      "x":82.4,
+      "y":79.5,
+      "name":"Book RPG PROP"
+   },
+   {
+      "x":46.6,
+      "y":44.3,
+      "name":"Holy Sword"
+   },
+   {
+      "x":64.4,
+      "y":13.9,
+      "name":"Bone Pile RPG PROP"
+   },
+   {
+      "x":64.6,
+      "y":14,
+      "name":"Stone Table RPG PROP"
+   },
+   {
+      "x":64.6,
+      "y":14,
+      "name":"Pitchfork RPG PROP"
+   },
+   {
+      "x":64.6,
+      "y":14,
+      "name":"Lit Torch"
+   },
+   {
+      "x":58.4,
+      "y":18.9,
+      "name":"Mossflayer Tribe Parchment"
+   },
+   {
+      "x":58.4,
+      "y":18.9,
+      "name":"Satchel RPG PROP"
+   },
+   {
+      "x":37.6,
+      "y":80.3,
+      "name":"Dead Tree RPG PROP"
+   },
+   {
+      "x":15.6,
+      "y":75.2,
+      "name":"Small Breach"
+   },
+   {
+      "x":15.6,
+      "y":75.2,
+      "name":"Tiny cave RPG PROP"
+   },
+   {
+      "x":23.1,
+      "y":56.9,
+      "name":"Pool of Blood of Heroes"
+   },
+   {
+      "x":5.7,
+      "y":35.3,
+      "name":"Blood stain RPG PROP"
+   },
+   {
+      "x":35.1,
+      "y":86.6,
+      "name":"Ring RPG Prop"
+   },
+   {
+      "x":35.1,
+      "y":86.6,
+      "name":"Glowing Ring"
+   },
+   {
+      "x":67.1,
+      "y":30.5,
+      "name":"Murkied Bracers"
+   },
+   {
+      "x":53.4,
+      "y":12.1,
+      "name":"Stuck Rapier"
+   },
+   {
+      "x":72.2,
+      "y":70.3,
+      "name":"Praetorian Helmet"
+   },
+   {
+      "x":48,
+      "y":13.8,
+      "name":"Quel'thalas Relic"
+   },
+   {
+      "x":34.4,
+      "y":79.4,
+      "name":"Skeleton RPG Prop"
+   },
+   {
+      "x":34.4,
+      "y":79.4,
+      "name":"Chainmail Cloak"
+   },
+   {
+      "x":11.3,
+      "y":25.9,
+      "name":"Rusty Pauldrons"
+   },
+   {
+      "x":76.2,
+      "y":41.1,
+      "name":"Adventurer's Corpse"
+   },
+   {
+      "x":5,
+      "y":38.4,
+      "name":"Spare Hammer"
+   },
+   {
+      "x":22.3,
+      "y":68.1,
+      "name":"Plagued Bow"
+   },
+   {
+      "x":5.2,
+      "y":38.2,
+      "name":"Indoor Fire RPG Prop"
+   },
+   {
+      "x":22.3,
+      "y":68.1,
+      "name":"Undead Alchemy Table RPG Prop"
+   },
+   {
+      "x":22.3,
+      "y":68.1,
+      "name":"Plague Bomb RPG Prop"
+   },
+   {
+      "x":6.2,
+      "y":31.3,
+      "name":"Terrifying Exsanguinated Corpse"
+   },
+   {
+      "x":-5.3,
+      "y":51.2,
+      "name":"Radley's Special Scope"
+   },
+   {
+      "x":1,
+      "y":73.5,
+      "name":"Fetid Blade"
+   },
+   {
+      "x":75.5,
+      "y":58.8,
+      "name":"Unstable Manastorm Portal"
+   },
+   {
+      "x":82.4,
+      "y":78.9,
+      "name":"Worldforged Cache"
+   },
+   {
+      "x":22.4,
+      "y":68,
+      "name":"Ranger Tactics Manual"
+   }
+]
