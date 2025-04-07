@@ -10,11 +10,6 @@
       "name":"Silk Covered Spaulders"
    },
    {
-      "x":31.8,
-      "y":24,
-      "name":"Blessing of the Unknown Soldier Spirit"
-   },
-   {
       "x":35.5,
       "y":35.1,
       "name":"Dark Scythe"
@@ -28,11 +23,6 @@
       "x":36.8,
       "y":66.7,
       "name":"Ring of the Faithful"
-   },
-   {
-      "x":37.8,
-      "y":30.5,
-      "name":"Foreboding Banner"
    },
    {
       "x":39.8,
@@ -184,14 +174,4 @@
       "y":74.2,
       "name":"Blood-soaked Bag"
    },
-   {
-      "x":68.5,
-      "y":83.5,
-      "name":"Mysterious Unstable Void"
-   },
-   {
-      "x":79.9,
-      "y":82.9,
-      "name":"Demonic Crystal"
-   }
 ]
