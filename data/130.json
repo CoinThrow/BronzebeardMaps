@@ -5,21 +5,6 @@
       "name":"Meat Wagon Small Claw"
    },
    {
-      "x":65,
-      "y":-4.5,
-      "name":"Old Insignia"
-   },
-   {
-      "x":74,
-      "y":48.7,
-      "name":"Unstable Manastorm Portal"
-   },
-   {
-      "x":78,
-      "y":48.5,
-      "name":"Silk Drape"
-   },
-   {
       "x":35.7,
       "y":7.7,
       "name":"Spider Poison Sample"
@@ -135,11 +120,6 @@
       "name":"Poison Vial"
    },
    {
-      "x":72.2,
-      "y":56.6,
-      "name":"Soot-Covered Flames"
-   },
-   {
       "x":73.2,
       "y":37.5,
       "name":"Post-Explosion Magic Debris"
@@ -148,20 +128,5 @@
       "x":73.2,
       "y":16.1,
       "name":"Stolen Lordaeron Jewel"
-   },
-   {
-      "x":73.3,
-      "y":56.1,
-      "name":"Dust-Covered Trunk"
-   },
-   {
-      "x":75.4,
-      "y":44.5,
-      "name":"Dusty Hat"
-   },
-   {
-      "x":82.2,
-      "y":46.7,
-      "name":"Arcane-Tinged Flower"
    }
 ]
