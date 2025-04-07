@@ -5,11 +5,6 @@
       "name":"Brewing Instructions"
    },
    {
-      "x":26.8,
-      "y":41.6,
-      "name":"Silk Covered Spaulders"
-   },
-   {
       "x":31.8,
       "y":24,
       "name":"Blessing of the Unknown Soldier Spirit"
@@ -179,14 +174,4 @@
       "y":74.2,
       "name":"Blood-soaked Bag"
    },
-   {
-      "x":68.5,
-      "y":83.5,
-      "name":"Mysterious Unstable Void"
-   },
-   {
-      "x":79.9,
-      "y":82.9,
-      "name":"Demonic Crystal"
-   }
 ]
