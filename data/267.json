@@ -145,11 +145,6 @@
       "name":"Time Lost Grave"
    },
    {
-      "x":31.4,
-      "y":65.8,
-      "name":"Log"
-   },
-   {
       "x":31.5,
       "y":66,
       "name":"Tanning Rack"
@@ -208,16 +203,6 @@
       "x":71.2,
       "y":79.3,
       "name":"Armor-Piercing Ammo Cache"
-   },
-   {
-      "x":31.7,
-      "y":66,
-      "name":"Horde Bedroll"
-   },
-   {
-      "x":82.2,
-      "y":42,
-      "name":"Orc Female Skeleton (0.5)"
    },
    {
       "x":31.2,
