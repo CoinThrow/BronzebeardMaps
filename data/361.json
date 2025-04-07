@@ -45,21 +45,6 @@
       "name":"Spiked Collar"
    },
    {
-      "x":57.6,
-      "y":85.5,
-      "name":"Shakily Penned Note"
-   },
-   {
-      "x":57.7,
-      "y":85.7,
-      "name":"Elegantly Scrawled Letter"
-   },
-   {
-      "x":57.5,
-      "y":85.9,
-      "name":"Tear-Stained Note"
-   },
-   {
       "x":57.4,
       "y":85.9,
       "name":"Heavy Chest"
@@ -68,16 +53,6 @@
       "x":54.4,
       "y":17.7,
       "name":"Emerald Amanita"
-   },
-   {
-      "x":70.4,
-      "y":8.1,
-      "name":"Frozen Pendant"
-   },
-   {
-      "x":70.7,
-      "y":21.4,
-      "name":"Expedition Satchel"
    },
    {
       "x":48.1,
@@ -188,10 +163,5 @@
       "x":41.3,
       "y":41.4,
       "name":"Weak Infernal Core"
-   },
-   {
-      "x":57,
-      "y":26.8,
-      "name":"Bloodstain visual"
    }
 ]
