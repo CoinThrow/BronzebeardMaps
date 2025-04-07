@@ -1,0 +1,287 @@
+[
+   {
+      "x":32,
+      "y":23.1,
+      "name":"Sack"
+   },
+   {
+      "x":88.6,
+      "y":85.1,
+      "name":"Bone Piece"
+   },
+   {
+      "x":54.8,
+      "y":79.6,
+      "name":"Stake"
+   },
+   {
+      "x":9.9,
+      "y":27.6,
+      "name":"Elven Militia Crown"
+   },
+   {
+      "x":9.9,
+      "y":27.6,
+      "name":"Skull"
+   },
+   {
+      "x":14.3,
+      "y":28.1,
+      "name":"Pristine Tortoise Carapace"
+   },
+   {
+      "x":16.8,
+      "y":20.2,
+      "name":"Felforged Meteor Fragment Remnant"
+   },
+   {
+      "x":16.8,
+      "y":20.2,
+      "name":"Fel Cracks"
+   },
+   {
+      "x":26.5,
+      "y":22.4,
+      "name":"Guide to Elven Restoration - Vol. I"
+   },
+   {
+      "x":32.3,
+      "y":20.5,
+      "name":"Bathran's Cursed Branch"
+   },
+   {
+      "x":26.7,
+      "y":41,
+      "name":"Maestra's Training Longbow"
+   },
+   {
+      "x":26.7,
+      "y":41,
+      "name":"Maestra's Training Longbow"
+   },
+   {
+      "x":22,
+      "y":53.1,
+      "name":"Echo of Aessina"
+   },
+   {
+      "x":37.9,
+      "y":33.8,
+      "name":"Thistlefur Fur Shroud"
+   },
+   {
+      "x":37.9,
+      "y":33.8,
+      "name":"Thistlefur Fur Shroud"
+   },
+   {
+      "x":25.1,
+      "y":60,
+      "name":"Cursed Fire Scar Pendant"
+   },
+   {
+      "x":42.4,
+      "y":62.8,
+      "name":"Ursangous' Claw"
+   },
+   {
+      "x":42.4,
+      "y":62.8,
+      "name":"Bed prop"
+   },
+   {
+      "x":46.3,
+      "y":46,
+      "name":"Elune Tear Fragment"
+   },
+   {
+      "x":50.9,
+      "y":69.7,
+      "name":"Mystral Staff"
+   },
+   {
+      "x":56.4,
+      "y":49.2,
+      "name":"Ring of Druidic Whispers"
+   },
+   {
+      "x":53.8,
+      "y":45.9,
+      "name":"Endless Moonwell Chalice"
+   },
+   {
+      "x":53.8,
+      "y":45.9,
+      "name":"Endless Moonwell Chalice"
+   },
+   {
+      "x":62.6,
+      "y":45.8,
+      "name":"Woodbreaker Mallet"
+   },
+   {
+      "x":62.1,
+      "y":82.8,
+      "name":"Silverwing Grovekeeper's Bow"
+   },
+   {
+      "x":83,
+      "y":70.2,
+      "name":"Felfire Band"
+   },
+   {
+      "x":54.8,
+      "y":79.6,
+      "name":"Bloodtooth Neck"
+   },
+   {
+      "x":81.2,
+      "y":50.4,
+      "name":"Bleakheart Heartpiercer"
+   },
+   {
+      "x":81.2,
+      "y":50.4,
+      "name":"Bleakheart Heartpiercer"
+   },
+   {
+      "x":81.2,
+      "y":50.4,
+      "name":"Bleakheart Heartpiercer prop"
+   },
+   {
+      "x":31.5,
+      "y":31.5,
+      "name":"Heartswood"
+   },
+   {
+      "x":31.5,
+      "y":31.5,
+      "name":"Heartswood"
+   },
+   {
+      "x":20.2,
+      "y":42.7,
+      "name":"Flowers of Healing"
+   },
+   {
+      "x":20.2,
+      "y":42.7,
+      "name":"Flowers of Healing"
+   },
+   {
+      "x":95.7,
+      "y":75.9,
+      "name":"Assassin's Crossbow"
+   },
+   {
+      "x":67.9,
+      "y":89.5,
+      "name":"Sharpened Pike"
+   },
+   {
+      "x":77,
+      "y":73.9,
+      "name":"Forgotten Supplies"
+   },
+   {
+      "x":77,
+      "y":73.9,
+      "name":"Forgotten Supplies"
+   },
+   {
+      "x":33.4,
+      "y":67.1,
+      "name":"Stardust Scoured Helmet"
+   },
+   {
+      "x":51.3,
+      "y":54.5,
+      "name":"Gift of Malorne"
+   },
+   {
+      "x":41.7,
+      "y":74.8,
+      "name":"Talondeep Glow"
+   },
+   {
+      "x":75.8,
+      "y":57.9,
+      "name":"Hunter's Lockbox"
+   },
+   {
+      "x":83.5,
+      "y":63.7,
+      "name":"Nightsong Waraxe"
+   },
+   {
+      "x":52.6,
+      "y":71.4,
+      "name":"Mystra's Forgotten Compass"
+   },
+   {
+      "x":60.8,
+      "y":38.9,
+      "name":"Woven Silk Band"
+   },
+   {
+      "x":76.2,
+      "y":74.7,
+      "name":"Ierie Broadsword"
+   },
+   {
+      "x":36.5,
+      "y":45.6,
+      "name":"Abandoned Fishing Rod"
+   },
+   {
+      "x":54.2,
+      "y":64.2,
+      "name":"Hammer of the Earthshaper"
+   },
+   {
+      "x":31.9,
+      "y":23,
+      "name":"Dirge of the Dead"
+   },
+   {
+      "x":49,
+      "y":30,
+      "name":"Ror's Chopper"
+   },
+   {
+      "x":92.6,
+      "y":86.4,
+      "name":"Venture Co. Exclusive Footwear"
+   },
+   {
+      "x":60.3,
+      "y":73,
+      "name":"Mysterious Sun Sigil"
+   },
+   {
+      "x":66.6,
+      "y":82.1,
+      "name":"Powerful Flowers"
+   },
+   {
+      "x":82.8,
+      "y":79.2,
+      "name":"Mysterious Cache"
+   },
+   {
+      "x":90.8,
+      "y":55.3,
+      "name":"Mysterious Bear Statue"
+   },
+   {
+      "x":53.9,
+      "y":46,
+      "name":"Mysterious Arcane Sigil"
+   },
+   {
+      "x":42.9,
+      "y":43.2,
+      "name":"Mysterious Statue"
+   }
+]
