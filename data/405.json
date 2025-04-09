@@ -303,5 +303,15 @@
       "x":46.7,
       "y":13.3,
       "name":"Overlook Cache"
+   },
+   {
+      "x": 28.1,
+      "y": 6.7,
+      "name": "Offering to Azshara"
+   },
+   {
+      "x": 26.6,
+      "y": 9.1,
+      "name": "Mysterious Orb"
    }
 ]
