@@ -265,59 +265,9 @@
       "name":"Tattered Remains"
    },
    {
-      "x":47.2,
-      "y":100.7,
-      "name":"Grimtotem Blade"
-   },
-   {
-      "x":49.1,
-      "y":97.1,
-      "name":"Rusty Hatchet"
-   },
-   {
-      "x":45.6,
-      "y":97.9,
-      "name":"Strange Trinket"
-   },
-   {
-      "x":48.5,
-      "y":97.1,
-      "name":"Drowned Diver's Signet"
-   },
-   {
-      "x":44,
-      "y":96.6,
-      "name":"Grimtotem Skull Smasher"
-   },
-   {
-      "x":47.7,
-      "y":98.4,
-      "name":"Galak Shortbow"
-   },
-   {
       "x":47.1,
       "y":93.7,
       "name":"Cursed Scepter"
-   },
-   {
-      "x":46.8,
-      "y":98.1,
-      "name":"Darkcloud Totem"
-   },
-   {
-      "x":49.1,
-      "y":97.1,
-      "name":"Iron Deposit"
-   },
-   {
-      "x":48.5,
-      "y":97.1,
-      "name":"Scuba Slayer's Blade"
-   },
-   {
-      "x":48.5,
-      "y":97.1,
-      "name":"Drowned Diver's Helmet"
    },
    {
       "x":65,
@@ -343,11 +293,6 @@
       "x":62.7,
       "y":38.8,
       "name":"Barrel o' Fish"
-   },
-   {
-      "x":47,
-      "y":1.4,
-      "name":"Powerful Flowers"
    },
    {
       "x":46.1,
