@@ -1,0 +1,327 @@
+[
+   {
+      "x":26,
+      "y":68.7,
+      "name":"Dreaded Exsanguinated Corpse"
+   },
+   {
+      "x":37,
+      "y":25.2,
+      "name":"Druidic Staff"
+   },
+   {
+      "x":46,
+      "y":2.9,
+      "name":"Slightly Scorched Supplies"
+   },
+   {
+      "x":57,
+      "y":69,
+      "name":"Small Wisp"
+   },
+   {
+      "x":61,
+      "y":73.7,
+      "name":"Shattered Highborne Blade"
+   },
+   {
+      "x":69,
+      "y":55.9,
+      "name":"Woodpaw Greatblade"
+   },
+   {
+      "x":77,
+      "y":64.6,
+      "name":"Secluded Soothsayer's Pipes"
+   },
+   {
+      "x":78,
+      "y":62.3,
+      "name":"Amber Crystal"
+   },
+   {
+      "x":24.5,
+      "y":65.9,
+      "name":"Strange Glowing Object"
+   },
+   {
+      "x":26.3,
+      "y":51.7,
+      "name":"Glint of Metal"
+   },
+   {
+      "x":28.6,
+      "y":70.7,
+      "name":"Hatestrike"
+   },
+   {
+      "x":29.1,
+      "y":50.7,
+      "name":"Lodged Artifact"
+   },
+   {
+      "x":37.5,
+      "y":34.8,
+      "name":"Busted Buckler"
+   },
+   {
+      "x":38.2,
+      "y":10.1,
+      "name":"Ancient Bag of Scrolls"
+   },
+   {
+      "x":38.8,
+      "y":15.7,
+      "name":"Ravenwind Codex"
+   },
+   {
+      "x":40.2,
+      "y":23.3,
+      "name":"Crystalline Crown"
+   },
+   {
+      "x":40.4,
+      "y":34.2,
+      "name":"Giant Stalker Rifle"
+   },
+   {
+      "x":40.7,
+      "y":12.3,
+      "name":"Highborne Relic"
+   },
+   {
+      "x":40.7,
+      "y":18.5,
+      "name":"Mysterious Statue"
+   },
+   {
+      "x":42.3,
+      "y":22.3,
+      "name":"Hunter's Cache"
+   },
+   {
+      "x":44.5,
+      "y":10.1,
+      "name":"Pruning Knife"
+   },
+   {
+      "x":44.4,
+      "y":10.0,
+      "name":"Evoroot"
+   },
+   {
+      "x":44.8,
+      "y":43.3,
+      "name":"Zorbin's Backup Wrench"
+   },
+   {
+      "x":45.2,
+      "y":25.6,
+      "name":"Gregan Tanning Rack"
+   },
+   {
+      "x":45.7,
+      "y":65.7,
+      "name":"Lost Feathermoon Provisions"
+   },
+   {
+      "x":49.2,
+      "y":53.8,
+      "name":"Old Ship Wheel"
+   },
+   {
+      "x":50.8,
+      "y":19.9,
+      "name":"Dormant Dreamscale"
+   },
+   {
+      "x":51.5,
+      "y":34.3,
+      "name":"Tanner's Chest"
+   },
+   {
+      "x":52.2,
+      "y":28.1,
+      "name":"Huntress Bow"
+   },
+   {
+      "x":52.3,
+      "y":60.7,
+      "name":"Yeti Napkin"
+   },
+   {
+      "x":52.9,
+      "y":75.9,
+      "name":"Ancient Necklace"
+   },
+   {
+      "x":53.5,
+      "y":64.5,
+      "name":"Sickly-Looking Egg"
+   },
+   {
+      "x":53.9,
+      "y":54.7,
+      "name":"Forgotten Light of Elune"
+   },
+   {
+      "x":54.3,
+      "y":33.9,
+      "name":"Accursed Yeti Horn"
+   },
+   {
+      "x":54.5,
+      "y":32,
+      "name":"Sacrifical Dagger"
+   },
+   {
+      "x":54.8,
+      "y":48.5,
+      "name":"Fallen's Sword"
+   },
+   {
+      "x":56.8,
+      "y":70,
+      "name":"Mysterious Magic Tree"
+   },
+   {
+      "x":57.1,
+      "y":68.9,
+      "name":"Highborne Wand"
+   },
+   {
+      "x":60.2,
+      "y":46.4,
+      "name":"Ogre Laundry Pouch"
+   },
+   {
+      "x":61.1,
+      "y":55.2,
+      "name":"Strange Glowing Orb"
+   },
+   {
+      "x":65.5,
+      "y":51.5,
+      "name":"Gnoll Throwing Axe"
+   },
+   {
+      "x":66.9,
+      "y":38.1,
+      "name":"Grim Totem"
+   },
+   {
+      "x":68.1,
+      "y":61,
+      "name":"Nightfallen Longbow"
+   },
+   {
+      "x":69.5,
+      "y":38.9,
+      "name":"Relic of Grim Wrath"
+   },
+   {
+      "x":72.1,
+      "y":63.7,
+      "name":"Zukk'ash Pod"
+   },
+   {
+      "x":72.2,
+      "y":36.9,
+      "name":"Gnoll-Gnawed Bone Bat"
+   },
+   {
+      "x":73.3,
+      "y":56.3,
+      "name":"Large Leather Backpacks"
+   },
+   {
+      "x":73.5,
+      "y":63.6,
+      "name":"Tattered Fur Remains"
+   },
+   {
+      "x":73.9,
+      "y":35.4,
+      "name":"Hanging Ogre Pouch"
+   },
+   {
+      "x":74.3,
+      "y":61.8,
+      "name":"Half-Eaten Gnoll"
+   },
+   {
+      "x":74.5,
+      "y":64.8,
+      "name":"Adventurer's Backpack"
+   },
+   {
+      "x":74.5,
+      "y":54.8,
+      "name":"Woodpaw Chest"
+   },
+   {
+      "x":75.1,
+      "y":32.6,
+      "name":"Large Bone"
+   },
+   {
+      "x":75.7,
+      "y":45.8,
+      "name":"Tightly Sealed Lockbox"
+   },
+   {
+      "x":76.2,
+      "y":37.4,
+      "name":"Shen'dralar Staff"
+   },
+   {
+      "x":76.4,
+      "y":66.7,
+      "name":"Unearthed Treasures"
+   },
+   {
+      "x":76.6,
+      "y":54,
+      "name":"Gnollish Artillery"
+   },
+   {
+      "x":76.9,
+      "y":64.9,
+      "name":"Fishing Rod"
+   },
+   {
+      "x":78.3,
+      "y":62.8,
+      "name":"Chip of Amber"
+   },
+   {
+      "x":78.7,
+      "y":48.2,
+      "name":"Mud-Covered Boots"
+   },
+   {
+      "x":81.1,
+      "y":39.4,
+      "name":"Logging Axe"
+   },
+   {
+      "x":83.8,
+      "y":48.9,
+      "name":"Tanithria's Silkweave"
+   },
+   {
+      "x":84.2,
+      "y":37,
+      "name":"Abandoned Supplies"
+   },
+   {
+      "x":88.6,
+      "y":38.8,
+      "name":"Accumulated Moonlight"
+   },
+   {
+      "x":89.5,
+      "y":46.7,
+      "name":"Mysterious Spirit"
+   }
+]
