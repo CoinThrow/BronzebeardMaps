@@ -40,16 +40,6 @@
       "name":"Fallen Recruit Footlocker"
    },
    {
-      "x":68.3,
-      "y":37.6,
-      "name":"Pile of Rocks"
-   },
-   {
-      "x":66.7,
-      "y":35.1,
-      "name":"Non-work Approved Bedroll"
-   },
-   {
       "x":59.6,
       "y":3.1,
       "name":"Bone Piece"
@@ -110,11 +100,6 @@
       "name":"Special Excavation Lantern"
    },
    {
-      "x":39,
-      "y":63,
-      "name":"Matriarch Windfury Claw"
-   },
-   {
       "x":46.7,
       "y":8.3,
       "name":"Warsong Timbercleaver"
@@ -130,24 +115,9 @@
       "name":"Southfury Totem"
    },
    {
-      "x":65.1,
-      "y":27.7,
-      "name":"Totem Charged Mace"
-   },
-   {
       "x":64.6,
       "y":8.8,
       "name":"Orcish Fishing Device"
-   },
-   {
-      "x":65.8,
-      "y":25.2,
-      "name":"Loot Basket"
-   },
-   {
-      "x":68.6,
-      "y":31.9,
-      "name":"Stashed Goods"
    },
    {
       "x":61.4,
@@ -268,11 +238,6 @@
       "x":47.1,
       "y":93.7,
       "name":"Cursed Scepter"
-   },
-   {
-      "x":65,
-      "y":21.4,
-      "name":"Champion's Band"
    },
    {
       "x":52.5,
