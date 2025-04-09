@@ -1,0 +1,367 @@
+[
+   {
+      "x":43.6,
+      "y":21.3,
+      "name":"Oasis Flower"
+   },
+   {
+      "x":62.6,
+      "y":36.3,
+      "name":"Junkyard Pendulum Clock"
+   },
+   {
+      "x":53.8,
+      "y":3.5,
+      "name":"Mysterious Crystal"
+   },
+   {
+      "x":50.4,
+      "y":40.5,
+      "name":"Thrown Axe"
+   },
+   {
+      "x":68.6,
+      "y":49.2,
+      "name":"Big Will's Victory Spoils"
+   },
+   {
+      "x":66.4,
+      "y":32.9,
+      "name":"Orc Corpse "
+   },
+   {
+      "x":66.4,
+      "y":32.9,
+      "name":"Worn Axe"
+   },
+   {
+      "x":66.4,
+      "y":32.5,
+      "name":"Fallen Recruit Footlocker"
+   },
+   {
+      "x":68.3,
+      "y":37.6,
+      "name":"Pile of Rocks"
+   },
+   {
+      "x":66.7,
+      "y":35.1,
+      "name":"Non-work Approved Bedroll"
+   },
+   {
+      "x":59.6,
+      "y":3.1,
+      "name":"Bone Piece"
+   },
+   {
+      "x":48.2,
+      "y":19.2,
+      "name":"Vial of Dread Enhanced Water"
+   },
+   {
+      "x":39.7,
+      "y":24.6,
+      "name":"Honor Blade"
+   },
+   {
+      "x":46.1,
+      "y":36.1,
+      "name":"Wailing Sapphire Gem"
+   },
+   {
+      "x":41.8,
+      "y":38.7,
+      "name":"Stylish Cloak"
+   },
+   {
+      "x":49.4,
+      "y":50.5,
+      "name":"Bloody Wedding Ring"
+   },
+   {
+      "x":61.6,
+      "y":53.5,
+      "name":"Northwatch Hand Gun Rack"
+   },
+   {
+      "x":69,
+      "y":48.5,
+      "name":"Affray Mail Armor"
+   },
+   {
+      "x":64.7,
+      "y":45.4,
+      "name":"Captain's Spyglass"
+   },
+   {
+      "x":43.3,
+      "y":77.7,
+      "name":"Arrows "
+   },
+   {
+      "x":43.3,
+      "y":77.7,
+      "name":"Overwatch Bow"
+   },
+   {
+      "x":49,
+      "y":86.3,
+      "name":"Special Excavation Lantern"
+   },
+   {
+      "x":39,
+      "y":63,
+      "name":"Matriarch Windfury Claw"
+   },
+   {
+      "x":46.7,
+      "y":8.3,
+      "name":"Warsong Timbercleaver"
+   },
+   {
+      "x":47.1,
+      "y":93.7,
+      "name":"Box"
+   },
+   {
+      "x":64.3,
+      "y":27.1,
+      "name":"Southfury Totem"
+   },
+   {
+      "x":65.1,
+      "y":27.7,
+      "name":"Totem Charged Mace"
+   },
+   {
+      "x":64.6,
+      "y":8.8,
+      "name":"Orcish Fishing Device"
+   },
+   {
+      "x":65.8,
+      "y":25.2,
+      "name":"Loot Basket"
+   },
+   {
+      "x":68.6,
+      "y":31.9,
+      "name":"Stashed Goods"
+   },
+   {
+      "x":61.4,
+      "y":21.2,
+      "name":"Conscription Supplies"
+   },
+   {
+      "x":56.2,
+      "y":8.8,
+      "name":"Drudger Smash"
+   },
+   {
+      "x":47.7,
+      "y":5.6,
+      "name":"Sharpened Pike"
+   },
+   {
+      "x":39.2,
+      "y":11.1,
+      "name":"Stolen Crossroads Shipment"
+   },
+   {
+      "x":45.1,
+      "y":22,
+      "name":"Forgotten Pool Trunks"
+   },
+   {
+      "x":61.7,
+      "y":45.5,
+      "name":"Captain's Chain"
+   },
+   {
+      "x":40.6,
+      "y":45,
+      "name":"Bristle Crossbow"
+   },
+   {
+      "x":57.1,
+      "y":31.7,
+      "name":"Peon Motivator"
+   },
+   {
+      "x":48.2,
+      "y":32.8,
+      "name":"Laundry Basket"
+   },
+   {
+      "x":44.6,
+      "y":51.3,
+      "name":"Thornweaver Mace"
+   },
+   {
+      "x":43.2,
+      "y":90,
+      "name":"Embedded Claymore"
+   },
+   {
+      "x":45.8,
+      "y":82.6,
+      "name":"Blackthorn Splitter"
+   },
+   {
+      "x":53.4,
+      "y":53.8,
+      "name":"Thrown Dagger"
+   },
+   {
+      "x":49.5,
+      "y":57.2,
+      "name":"Discarded Wand"
+   },
+   {
+      "x":49.6,
+      "y":84.3,
+      "name":"Malgin's Barback"
+   },
+   {
+      "x":59.5,
+      "y":8.5,
+      "name":"Takk's Nest"
+   },
+   {
+      "x":63.8,
+      "y":10.4,
+      "name":"Durotar Palm"
+   },
+   {
+      "x":31.8,
+      "y":31.4,
+      "name":"Mulgore Tree"
+   },
+   {
+      "x":52.4,
+      "y":23.3,
+      "name":"Wooden Staff"
+   },
+   {
+      "x":47.9,
+      "y":58.2,
+      "name":"Abandoned Totem"
+   },
+   {
+      "x":54.7,
+      "y":5.8,
+      "name":"Venture Co. Warning"
+   },
+   {
+      "x":44.3,
+      "y":72.6,
+      "name":"Silithid Scale"
+   },
+   {
+      "x":47.2,
+      "y":67.3,
+      "name":"Kodo Supplies"
+   },
+   {
+      "x":47.4,
+      "y":29.5,
+      "name":"Mysterious Artifact"
+   },
+   {
+      "x":43.9,
+      "y":93.3,
+      "name":"Tattered Remains"
+   },
+   {
+      "x":47.2,
+      "y":100.7,
+      "name":"Grimtotem Blade"
+   },
+   {
+      "x":49.1,
+      "y":97.1,
+      "name":"Rusty Hatchet"
+   },
+   {
+      "x":45.6,
+      "y":97.9,
+      "name":"Strange Trinket"
+   },
+   {
+      "x":48.5,
+      "y":97.1,
+      "name":"Drowned Diver's Signet"
+   },
+   {
+      "x":44,
+      "y":96.6,
+      "name":"Grimtotem Skull Smasher"
+   },
+   {
+      "x":47.7,
+      "y":98.4,
+      "name":"Galak Shortbow"
+   },
+   {
+      "x":47.1,
+      "y":93.7,
+      "name":"Cursed Scepter"
+   },
+   {
+      "x":46.8,
+      "y":98.1,
+      "name":"Darkcloud Totem"
+   },
+   {
+      "x":49.1,
+      "y":97.1,
+      "name":"Iron Deposit"
+   },
+   {
+      "x":48.5,
+      "y":97.1,
+      "name":"Scuba Slayer's Blade"
+   },
+   {
+      "x":48.5,
+      "y":97.1,
+      "name":"Drowned Diver's Helmet"
+   },
+   {
+      "x":65,
+      "y":21.4,
+      "name":"Champion's Band"
+   },
+   {
+      "x":52.5,
+      "y":10.7,
+      "name":"Greasy Pauldrons"
+   },
+   {
+      "x":55.2,
+      "y":42.1,
+      "name":"Lost Oasis Crate"
+   },
+   {
+      "x":61.8,
+      "y":3.9,
+      "name":"Venture Co. Exclusive Footwear"
+   },
+   {
+      "x":62.7,
+      "y":38.8,
+      "name":"Barrel o' Fish"
+   },
+   {
+      "x":47,
+      "y":1.4,
+      "name":"Powerful Flowers"
+   },
+   {
+      "x":46.1,
+      "y":35.7,
+      "name":"Mysterious Cache"
+   }
+]
