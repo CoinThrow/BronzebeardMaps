@@ -490,11 +490,6 @@
       "name":"Hexed Staff"
    },
    {
-      "x":10.9,
-      "y":40.9,
-      "name":"Sandstone Sniper"
-   },
-   {
       "x":67.9,
       "y":97.6,
       "name":"Hidden Cache"
@@ -513,21 +508,6 @@
       "x":85,
       "y":70.3,
       "name":"Qiraji-Touched Tool"
-   },
-   {
-      "x":88.8,
-      "y":42.1,
-      "name":"Sandfury Boomerang"
-   },
-   {
-      "x":21.7,
-      "y":19.2,
-      "name":"Wethered Amulet"
-   },
-   {
-      "x":63.3,
-      "y":81.6,
-      "name":"Vine"
    },
    {
       "x":62.8,
