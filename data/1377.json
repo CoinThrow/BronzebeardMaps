@@ -10,14 +10,19 @@
       "name":"Recruitment Badge"
    },
    {
+      "x":66.2,
+      "y":70,
+      "name":"Box of Offerings"
+   },
+   {
       "x":19.2,
       "y":44.9,
       "name":"Crystal Sword"
    },
    {
-      "x":50.9,
-      "y":26.8,
-      "name":"Hive'Ashi Glyphed Crystal"
+      "x":16.7,
+      "y":110,
+      "name":"Horde Supply Crate"
    },
    {
       "x":63.7,
