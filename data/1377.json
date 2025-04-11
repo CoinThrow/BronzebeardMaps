@@ -5,9 +5,19 @@
       "name":"Recruitment Badge"
    },
    {
+      "x":25.6,
+      "y":96.4,
+      "name":"Recruitment Badge"
+   },
+   {
       "x":19.2,
       "y":44.9,
       "name":"Crystal Sword"
+   },
+   {
+      "x":50.9,
+      "y":26.8,
+      "name":"Hive'Ashi Glyphed Crystal"
    },
    {
       "x":63.7,
@@ -30,9 +40,19 @@
       "name":"Rock Stalker Egg Sack's"
    },
    {
+      "x":69.1,
+      "y":43.8,
+      "name":"Sandstone Sniper"
+   },
+   {
       "x":49.9,
       "y":34.3,
       "name":"Standard Cenarion Spear"
+   },
+   {
+      "x":80.6,
+      "y":20.7,
+      "name":"Wethered Amulet"
    },
    {
       "x":70.3,
@@ -53,5 +73,10 @@
       "x":74.4,
       "y":11.7,
       "name":"Twilight Storage Barrel"
+   },
+   {
+      "x":22.8,
+      "y":93,
+      "name":"Old God's Tablet"
    }
 ]
