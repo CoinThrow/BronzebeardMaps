@@ -15,16 +15,6 @@
       "name":"Mysterious Healing Book"
    },
    {
-      "x":75.5,
-      "y":52.3,
-      "name":"Mysterious Healing Book"
-   },
-   {
-      "x":75.5,
-      "y":52.3,
-      "name":"Mysterious Healing Book"
-   },
-   {
       "x":49.4,
       "y":14.5,
       "name":"Sliver of Quel'dorei Holy Energy"
@@ -52,12 +42,7 @@
    {
       "x":37.7,
       "y":80,
-      "name":"Earie Fruit"
-   },
-   {
-      "x":56.9,
-      "y":74.2,
-      "name":"Lost Totem"
+      "name":"Forbidden Fruit"
    },
    {
       "x":48.1,
@@ -70,14 +55,39 @@
       "name":"Adventurer's Boots"
    },
    {
+      "x":72.7,
+      "y":52.9,
+      "name":"Sack of Relics"
+   },
+   {
+      "x":72.7,
+      "y":52.9,
+      "name":"Sack of Relics"
+   },
+   {
       "x":64.9,
       "y":24.5,
-      "name":"Stuck Axe"
+      "name":"Executioner's Axe"
    },
    {
       "x":77.5,
       "y":73.1,
       "name":"Scarlet Libram"
+   },
+   {
+      "x":81.5,
+      "y":43.2,
+      "name":"Runeblade"
+   },
+   {
+      "x":81.5,
+      "y":43.2,
+      "name":"Runeblade"
+   },
+   {
+      "x":71.2,
+      "y":76.1,
+      "name":"Defense Crossbow"
    },
    {
       "x":74.9,
@@ -88,6 +98,11 @@
       "x":82.4,
       "y":79.4,
       "name":"Scarlet Gavel"
+   },
+   {
+      "x":55.5,
+      "y":43.1,
+      "name":"Chainmail Gauntlets"
    },
    {
       "x":46.6,
@@ -107,7 +122,7 @@
    {
       "x":15.6,
       "y":75.2,
-      "name":"Small Breach"
+      "name":"Baby Plaguebat"
    },
    {
       "x":23.1,
@@ -118,6 +133,11 @@
       "x":35.1,
       "y":86.6,
       "name":"Glowing Ring"
+   },
+   {
+      "x":61.9,
+      "y":44.2,
+      "name":"Broken Box of War Supplies"
    },
    {
       "x":67.1,
@@ -140,9 +160,14 @@
       "name":"Quel'thalas Relic"
    },
    {
+      "x":61.5,
+      "y":68.3,
+      "name":"Encrusted Spear"
+   },
+   {
       "x":34.4,
       "y":79.4,
-      "name":"Chainmail Cloak"
+      "name":"Darrowshire Cloak"
    },
    {
       "x":11.3,
@@ -155,6 +180,101 @@
       "name":"Adventurer's Corpse"
    },
    {
+      "x":76.2,
+      "y":41.1,
+      "name":"Adventurer's Corpse"
+   },
+   {
+      "x":33.5,
+      "y":51.2,
+      "name":"Lost Goods "
+   },
+   {
+      "x":56.4,
+      "y":73.4,
+      "name":"Fisherman Bag"
+   },
+   {
+      "x":51.3,
+      "y":27.1,
+      "name":"Chewed Knuckle"
+   },
+   {
+      "x":46,
+      "y":32.5,
+      "name":"Impaled Corpse"
+   },
+   {
+      "x":14.1,
+      "y":29.1,
+      "name":"Plagued Pitchfork"
+   },
+   {
+      "x":18.7,
+      "y":31.5,
+      "name":"Necromancer's Corpse"
+   },
+   {
+      "x":23.6,
+      "y":29.9,
+      "name":"Scourge Banner Scrap"
+   },
+   {
+      "x":26.8,
+      "y":16.6,
+      "name":"Glinting Sack"
+   },
+   {
+      "x":35.3,
+      "y":29.4,
+      "name":"Flaming Rod"
+   },
+   {
+      "x":72.1,
+      "y":45,
+      "name":"Dusty Crate"
+   },
+   {
+      "x":72.1,
+      "y":45,
+      "name":"Dusty Crate"
+   },
+   {
+      "x":74.1,
+      "y":58.7,
+      "name":"Buried Shotgun"
+   },
+   {
+      "x":74.1,
+      "y":58.7,
+      "name":"Buried Shotgun"
+   },
+   {
+      "x":22.1,
+      "y":13.2,
+      "name":"Golden Circlet"
+   },
+   {
+      "x":34.9,
+      "y":69.4,
+      "name":"Mossy Belt"
+   },
+   {
+      "x":35,
+      "y":69.3,
+      "name":"Mossy Bag"
+   },
+   {
+      "x":15.9,
+      "y":55.4,
+      "name":"Glinting Pendant"
+   },
+   {
+      "x":58.8,
+      "y":55.3,
+      "name":"Crusader's Chest"
+   },
+   {
       "x":5,
       "y":38.4,
       "name":"Spare Hammer"
@@ -165,23 +285,28 @@
       "name":"Plagued Bow"
    },
    {
+      "x":33.1,
+      "y":15,
+      "name":"Assistant's Remains"
+   },
+   {
+      "x":38.4,
+      "y":17.2,
+      "name":"Empty Bag"
+   },
+   {
+      "x":58.6,
+      "y":55,
+      "name":"Crusader's Mace"
+   },
+   {
       "x":6.2,
       "y":31.3,
       "name":"Terrifying Exsanguinated Corpse"
    },
    {
-      "x":75.5,
-      "y":58.8,
-      "name":"Unstable Manastorm Portal"
-   },
-   {
-      "x":82.4,
-      "y":78.9,
-      "name":"Worldforged Cache"
-   },
-   {
-      "x":22.4,
-      "y":68,
-      "name":"Ranger Tactics Manual"
+      "x":28.4,
+      "y":11.6,
+      "name":"Flower of Regret"
    }
 ]
