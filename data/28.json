@@ -198,5 +198,155 @@
       "x":44.1,
       "y":98.3,
       "name":"Turtle Shell"
+   },
+   {
+      "x":42.3,
+      "y":18,
+      "name":"Wrathful Shield"
+   },
+   {
+      "x":85.6,
+      "y":61.7,
+      "name":"Mossflayer Corpse"
+   },
+   {
+      "x":77.5,
+      "y":58.7,
+      "name":"Baby Plaguebat"
+   },
+   {
+      "x":41.7,
+      "y":14.8,
+      "name":"Bandages Prop"
+   },
+   {
+      "x":42.2,
+      "y":14.6,
+      "name":"Chained Skeleton Prop"
+   },
+   {
+      "x":83.8,
+      "y":52.1,
+      "name":"Plagued Bow"
+   },
+   {
+      "x":45.3,
+      "y":44.6,
+      "name":"Slightly-Damaged Chest"
+   },
+   {
+      "x":80.5,
+      "y":74.2,
+      "name":"Apothecary Sack"
+   },
+   {
+      "x":53,
+      "y":55.5,
+      "name":"Empty Sack"
+   },
+   {
+      "x":48.9,
+      "y":31.7,
+      "name":"Garmet Supplies"
+   },
+   {
+      "x":44.9,
+      "y":33.8,
+      "name":"Northridge Hatchet"
+   },
+   {
+      "x":53.2,
+      "y":37,
+      "name":"Scarlet Knight Sword"
+   },
+   {
+      "x":41.7,
+      "y":14.8,
+      "name":"Scarlet Band"
+   },
+   {
+      "x":51.7,
+      "y":44.3,
+      "name":"Shimmering Scarlet Cane"
+   },
+   {
+      "x":46.3,
+      "y":52.6,
+      "name":"Phylactery Shard"
+   },
+   {
+      "x":44.7,
+      "y":13.3,
+      "name":"Scarlet Shield"
+   },
+   {
+      "x":46.4,
+      "y":13.7,
+      "name":"Brightflame Codex"
+   },
+   {
+      "x":55,
+      "y":23.8,
+      "name":"Scarlet Supplies"
+   },
+   {
+      "x":54.9,
+      "y":45.6,
+      "name":"Charred Slicer"
+   },
+   {
+      "x":59.8,
+      "y":53.3,
+      "name":"Graveyard Striker"
+   },
+   {
+      "x":52.7,
+      "y":19.3,
+      "name":"Tracker's Plagued Spike"
+   },
+   {
+      "x":48,
+      "y":22.9,
+      "name":"Sentinel Sharpshooter"
+   },
+   {
+      "x":42.4,
+      "y":18.7,
+      "name":"Burning Judgement"
+   },
+   {
+      "x":57.9,
+      "y":36.2,
+      "name":"Radley's Special Scope"
+   },
+   {
+      "x":63.8,
+      "y":57.1,
+      "name":"Fetid Blade"
+   },
+   {
+      "x":45.3,
+      "y":15.5,
+      "name":"Scarlet Chest"
+   },
+   {
+      "x":41.7,
+      "y":14.8,
+      "name":"Scarlet Cursed Band"
+   },
+   {
+      "x":55,
+      "y":23.8,
+      "name":"Scarlet Supplies"
+   },
+   {
+      "x":83.9,
+      "y":52.2,
+      "name":"Ranger Tactics Manual"
+   },
+   {
+      "x":69.4,
+      "y":69.9,
+      "name":"Scholomance Supplies"
    }
 ]
