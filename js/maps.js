@@ -28,7 +28,8 @@ function ma_Init() {
 
     myMapper = new Mapper({
         parent: 'mapper-generic',
-        editable: true,
+        editable: false,
+		zoomable: false,
         zoom: 1,
         onPinUpdate: ma_UpdateLink,
         onMapUpdate: ma_UpdateLink
