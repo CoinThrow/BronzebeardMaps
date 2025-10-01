@@ -1,302 +1,302 @@
 [
     {
-        "Id":  254411,
-        "Name":  "Fallen Glaive",
-        "MapX":  "20,6",
-        "MapY":  "62,1"
+        "id":  254411,
+        "name":  "Fallen Glaive",
+        "X":  "20,6",
+        "Y":  "62,1"
     },
     {
-        "Id":  254410,
-        "Name":  "Drape of the Lost",
-        "MapX":  "14,6",
-        "MapY":  "78,3"
+        "id":  254410,
+        "name":  "Drape of the Lost",
+        "X":  "14,6",
+        "Y":  "78,3"
     },
     {
-        "Id":  254472,
-        "Name":  "Buried Statue",
-        "MapX":  "25,5",
-        "MapY":  "66,2"
+        "id":  254472,
+        "name":  "Buried Statue",
+        "X":  "25,5",
+        "Y":  "66,2"
     },
     {
-        "Id":  254471,
-        "Name":  "Lion\u0027s Claws",
-        "MapX":  "26,3",
-        "MapY":  "76,6"
+        "id":  254471,
+        "name":  "Lion\u0027s Claws",
+        "X":  "26,3",
+        "Y":  "76,6"
     },
     {
-        "Id":  1190586,
-        "Name":  "Nature\u0027s Bloom",
-        "MapX":  "27,8",
-        "MapY":  "55,4"
+        "id":  1190586,
+        "name":  "Nature\u0027s Bloom",
+        "X":  "27,8",
+        "Y":  "55,4"
     },
     {
-        "Id":  254412,
-        "Name":  "Arcane Tome",
-        "MapX":  "29,4",
-        "MapY":  "39,8"
+        "id":  254412,
+        "name":  "Arcane Tome",
+        "X":  "29,4",
+        "Y":  "39,8"
     },
     {
-        "Id":  254414,
-        "Name":  "Apprentice\u0027s Wardrobe",
-        "MapX":  "29,9",
-        "MapY":  "40,1"
+        "id":  254414,
+        "name":  "Apprentice\u0027s Wardrobe",
+        "X":  "29,9",
+        "Y":  "40,1"
     },
     {
-        "Id":  2200077,
-        "Name":  "Mysterious Arcane Book",
-        "MapX":  "29,6",
-        "MapY":  "40,8"
+        "id":  2200077,
+        "name":  "Mysterious Arcane Book",
+        "X":  "29,6",
+        "Y":  "40,8"
     },
     {
-        "Id":  254456,
-        "Name":  "Might of Azshara",
-        "MapX":  "32,2",
-        "MapY":  "51,9"
+        "id":  254456,
+        "name":  "Might of Azshara",
+        "X":  "32,2",
+        "Y":  "51,9"
     },
     {
-        "Id":  254465,
-        "Name":  "Ruin Excavator",
-        "MapX":  "28,6",
-        "MapY":  "81,3"
+        "id":  254465,
+        "name":  "Ruin Excavator",
+        "X":  "28,6",
+        "Y":  "81,3"
     },
     {
-        "Id":  254455,
-        "Name":  "Ancient Ring",
-        "MapX":  "36,7",
-        "MapY":  "75,7"
+        "id":  254455,
+        "name":  "Ancient Ring",
+        "X":  "36,7",
+        "Y":  "75,7"
     },
     {
-        "Id":  254473,
-        "Name":  "Peter\u0027s Prototype Pattern",
-        "MapX":  "37,7",
-        "MapY":  "65,6"
+        "id":  254473,
+        "name":  "Peter\u0027s Prototype Pattern",
+        "X":  "37,7",
+        "Y":  "65,6"
     },
     {
-        "Id":  254457,
-        "Name":  "Glowing Shard",
-        "MapX":  "39,5",
-        "MapY":  "64,4"
+        "id":  254457,
+        "name":  "Glowing Shard",
+        "X":  "39,5",
+        "Y":  "64,4"
     },
     {
-        "Id":  254462,
-        "Name":  "Bare Shoes",
-        "MapX":  "35,6",
-        "MapY":  "35,6"
+        "id":  254462,
+        "name":  "Bare Shoes",
+        "X":  "35,6",
+        "Y":  "35,6"
     },
     {
-        "Id":  254475,
-        "Name":  "Miru Berry Bush",
-        "MapX":  "40,3",
-        "MapY":  "36,4"
+        "id":  254475,
+        "name":  "Miru Berry Bush",
+        "X":  "40,3",
+        "Y":  "36,4"
     },
     {
-        "Id":  254458,
-        "Name":  "Pinned Crossbow",
-        "MapX":  "39,8",
-        "MapY":  "46,5"
+        "id":  254458,
+        "name":  "Pinned Crossbow",
+        "X":  "39,8",
+        "Y":  "46,5"
     },
     {
-        "Id":  254459,
-        "Name":  "Shoulderguards of Zin-Malor",
-        "MapX":  "40,5",
-        "MapY":  "53,0"
+        "id":  254459,
+        "name":  "Shoulderguards of Zin-Malor",
+        "X":  "40,5",
+        "Y":  "53,0"
     },
     {
-        "Id":  254450,
-        "Name":  "Draconic Wand",
-        "MapX":  "42,4",
-        "MapY":  "84,0"
+        "id":  254450,
+        "name":  "Draconic Wand",
+        "X":  "42,4",
+        "Y":  "84,0"
     },
     {
-        "Id":  1546304,
-        "Name":  "Ish\u0027thel Falesh, Gaze of Eldara",
-        "MapX":  "44,3",
-        "MapY":  "45,1"
+        "id":  1546304,
+        "name":  "Ish\u0027thel Falesh, Gaze of Eldara",
+        "X":  "44,3",
+        "Y":  "45,1"
     },
     {
-        "Id":  254474,
-        "Name":  "Repository of Eldara",
-        "MapX":  "49,3",
-        "MapY":  "34,6"
+        "id":  254474,
+        "name":  "Repository of Eldara",
+        "X":  "49,3",
+        "Y":  "34,6"
     },
     {
-        "Id":  254464,
-        "Name":  "Offering",
-        "MapX":  "49,4",
-        "MapY":  "41,6"
+        "id":  254464,
+        "name":  "Offering",
+        "X":  "49,4",
+        "Y":  "41,6"
     },
     {
-        "Id":  254467,
-        "Name":  "Moonwashed Bow",
-        "MapX":  "48,9",
-        "MapY":  "46,7"
+        "id":  254467,
+        "name":  "Moonwashed Bow",
+        "X":  "48,9",
+        "Y":  "46,7"
     },
     {
-        "Id":  590001,
-        "Name":  "Waterlogged Tome",
-        "MapX":  "49,2",
-        "MapY":  "49,5"
+        "id":  590001,
+        "name":  "Waterlogged Tome",
+        "X":  "49,2",
+        "Y":  "49,5"
     },
     {
-        "Id":  254463,
-        "Name":  "Warbanner",
-        "MapX":  "47,1",
-        "MapY":  "59,6"
+        "id":  254463,
+        "name":  "Warbanner",
+        "X":  "47,1",
+        "Y":  "59,6"
     },
     {
-        "Id":  90031,
-        "Name":  "Mysterious Barrel",
-        "MapX":  "45,4",
-        "MapY":  "90,6"
+        "id":  90031,
+        "name":  "Mysterious Barrel",
+        "X":  "45,4",
+        "Y":  "90,6"
     },
     {
-        "Id":  254439,
-        "Name":  "Cilkeck\u0027s Toolbox",
-        "MapX":  "45,2",
-        "MapY":  "91,0"
+        "id":  254439,
+        "name":  "Cilkeck\u0027s Toolbox",
+        "X":  "45,2",
+        "Y":  "91,0"
     },
     {
-        "Id":  254453,
-        "Name":  "Crystalized Shield",
-        "MapX":  "53,9",
-        "MapY":  "79,6"
+        "id":  254453,
+        "name":  "Crystalized Shield",
+        "X":  "53,9",
+        "Y":  "79,6"
     },
     {
-        "Id":  254442,
-        "Name":  "Beached Necklace",
-        "MapX":  "55,9",
-        "MapY":  "71,3"
+        "id":  254442,
+        "name":  "Beached Necklace",
+        "X":  "55,9",
+        "Y":  "71,3"
     },
     {
-        "Id":  254415,
-        "Name":  "Ursolan Totem",
-        "MapX":  "45,0",
-        "MapY":  "21,9"
+        "id":  254415,
+        "name":  "Ursolan Totem",
+        "X":  "45,0",
+        "Y":  "21,9"
     },
     {
-        "Id":  254417,
-        "Name":  "Experimental Boots",
-        "MapX":  "53,6",
-        "MapY":  "21,9"
+        "id":  254417,
+        "name":  "Experimental Boots",
+        "X":  "53,6",
+        "Y":  "21,9"
     },
     {
-        "Id":  254449,
-        "Name":  "Reclaimed Circlet",
-        "MapX":  "56,0",
-        "MapY":  "30,0"
+        "id":  254449,
+        "name":  "Reclaimed Circlet",
+        "X":  "56,0",
+        "Y":  "30,0"
     },
     {
-        "Id":  254446,
-        "Name":  "Old Shell",
-        "MapX":  "55,1",
-        "MapY":  "48,5"
+        "id":  254446,
+        "name":  "Old Shell",
+        "X":  "55,1",
+        "Y":  "48,5"
     },
     {
-        "Id":  254444,
-        "Name":  "Shed Hydra Scales",
-        "MapX":  "57,1",
-        "MapY":  "52,4"
+        "id":  254444,
+        "name":  "Shed Hydra Scales",
+        "X":  "57,1",
+        "Y":  "52,4"
     },
     {
-        "Id":  254480,
-        "Name":  "Vuna\u0027thell",
-        "MapX":  "58,3",
-        "MapY":  "52,9"
+        "id":  254480,
+        "name":  "Vuna\u0027thell",
+        "X":  "58,3",
+        "Y":  "52,9"
     },
     {
-        "Id":  254443,
-        "Name":  "Fel Hunter\u0027s Spike",
-        "MapX":  "60,1",
-        "MapY":  "65,7"
+        "id":  254443,
+        "name":  "Fel Hunter\u0027s Spike",
+        "X":  "60,1",
+        "Y":  "65,7"
     },
     {
-        "Id":  254437,
-        "Name":  "Advanced Pirate Medical Device",
-        "MapX":  "53,9",
-        "MapY":  "88,1"
+        "id":  254437,
+        "name":  "Advanced Pirate Medical Device",
+        "X":  "53,9",
+        "Y":  "88,1"
     },
     {
-        "Id":  254448,
-        "Name":  "Giant\u0027s Storm Dagger",
-        "MapX":  "59,1",
-        "MapY":  "40,8"
+        "id":  254448,
+        "name":  "Giant\u0027s Storm Dagger",
+        "X":  "59,1",
+        "Y":  "40,8"
     },
     {
-        "Id":  254416,
-        "Name":  "Woven Legashi Basket",
-        "MapX":  "51,9",
-        "MapY":  "19,5"
+        "id":  254416,
+        "name":  "Woven Legashi Basket",
+        "X":  "51,9",
+        "Y":  "19,5"
     },
     {
-        "Id":  254420,
-        "Name":  "Stargazer",
-        "MapX":  "54,5",
-        "MapY":  "10,6"
+        "id":  254420,
+        "name":  "Stargazer",
+        "X":  "54,5",
+        "Y":  "10,6"
     },
     {
-        "Id":  254418,
-        "Name":  "Bloody Knife",
-        "MapX":  "61,5",
-        "MapY":  "25,2"
+        "id":  254418,
+        "name":  "Bloody Knife",
+        "X":  "61,5",
+        "Y":  "25,2"
     },
     {
-        "Id":  254436,
-        "Name":  "Spitelash Supply Barrel",
-        "MapX":  "66,2",
-        "MapY":  "77,0"
+        "id":  254436,
+        "name":  "Spitelash Supply Barrel",
+        "X":  "66,2",
+        "Y":  "77,0"
     },
     {
-        "Id":  254438,
-        "Name":  "Buried Cage",
-        "MapX":  "62,1",
-        "MapY":  "93,8"
+        "id":  254438,
+        "name":  "Buried Cage",
+        "X":  "62,1",
+        "Y":  "93,8"
     },
     {
-        "Id":  254434,
-        "Name":  "Glinting Signet Stone",
-        "MapX":  "71,6",
-        "MapY":  "84,6"
+        "id":  254434,
+        "name":  "Glinting Signet Stone",
+        "X":  "71,6",
+        "Y":  "84,6"
     },
     {
-        "Id":  254419,
-        "Name":  "Legashi Equipment",
-        "MapX":  "66,4",
-        "MapY":  "16,9"
+        "id":  254419,
+        "name":  "Legashi Equipment",
+        "X":  "66,4",
+        "Y":  "16,9"
     },
     {
-        "Id":  254468,
-        "Name":  "Duke\u0027s Staff",
-        "MapX":  "79,1",
-        "MapY":  "73,8"
+        "id":  254468,
+        "name":  "Duke\u0027s Staff",
+        "X":  "79,1",
+        "Y":  "73,8"
     },
     {
-        "Id":  254431,
-        "Name":  "Arkkoran Idol",
-        "MapX":  "76,0",
-        "MapY":  "39,5"
+        "id":  254431,
+        "name":  "Arkkoran Idol",
+        "X":  "76,0",
+        "Y":  "39,5"
     },
     {
-        "Id":  254430,
-        "Name":  "The Wrath of Arkkoroc",
-        "MapX":  "76,9",
-        "MapY":  "43,6"
+        "id":  254430,
+        "name":  "The Wrath of Arkkoroc",
+        "X":  "76,9",
+        "Y":  "43,6"
     },
     {
-        "Id":  254466,
-        "Name":  "Stuck Hammer",
-        "MapX":  "74,4",
-        "MapY":  "26,0"
+        "id":  254466,
+        "name":  "Stuck Hammer",
+        "X":  "74,4",
+        "Y":  "26,0"
     },
     {
-        "Id":  254425,
-        "Name":  "Heavy Furbolg Basket",
-        "MapX":  "84,0",
-        "MapY":  "16,9"
+        "id":  254425,
+        "name":  "Heavy Furbolg Basket",
+        "X":  "84,0",
+        "Y":  "16,9"
     },
     {
-        "Id":  254429,
-        "Name":  "Eldara\u0027s Lyre",
-        "MapX":  "90,3",
-        "MapY":  "35,1"
+        "id":  254429,
+        "name":  "Eldara\u0027s Lyre",
+        "X":  "90,3",
+        "Y":  "35,1"
     }
 ]
