@@ -1,252 +1,320 @@
 [
-   {
-      "x":51.6,
-      "y":9.8,
-      "name":"Burning Blade Stash"
-   },
-   {
-      "x":40.5,
-      "y":68.5,
-      "name":"Orc Corpse "
-   },
-   {
-      "x":40.4,
-      "y":68.6,
-      "name":"Worn Axe"
-   },
-   {
-      "x":45.5,
-      "y":63.8,
-      "name":"Abandoned Peon's Sack"
-   },
-   {
-      "x":40.5,
-      "y":67.9,
-      "name":"Fallen Recruit Footlocker"
-   },
-   {
-      "x":44.3,
-      "y":77.6,
-      "name":"Pile of Rocks"
-   },
-   {
-      "x":41.2,
-      "y":72.8,
-      "name":"Non-work Approved Bedroll"
-   },
-   {
-      "x":42.4,
-      "y":53.1,
-      "name":"Burning Blade Ring"
-   },
-   {
-      "x":60.1,
-      "y":90.1,
-      "name":"Dead Adventurer"
-   },
-   {
-      "x":63.2,
-      "y":98.3,
-      "name":"Floating Barrel"
-   },
-   {
-      "x":53.3,
-      "y":74.4,
-      "name":"Lost Goods "
-   },
-   {
-      "x":59.9,
-      "y":59,
-      "name":"Broken Crate"
-   },
-   {
-      "x":59.1,
-      "y":45.4,
-      "name":"Abandoned Crate"
-   },
-   {
-      "x":49.1,
-      "y":74.9,
-      "name":"Shabby Knife"
-   },
-   {
-      "x":68.5,
-      "y":83.3,
-      "name":"Bloody Necklace"
-   },
-   {
-      "x":63.3,
-      "y":57.5,
-      "name":"Embedded Sword"
-   },
-   {
-      "x":51,
-      "y":19.8,
-      "name":"Stormwitch Staff"
-   },
-   {
-      "x":43.8,
-      "y":23.8,
-      "name":"Broken Tail Spike"
-   },
-   {
-      "x":48.9,
-      "y":48.6,
-      "name":"Quilbow"
-   },
-   {
-      "x":42.9,
-      "y":49.6,
-      "name":"Firestarter"
-   },
-   {
-      "x":36.5,
-      "y":57.5,
-      "name":"Southfury Totem"
-   },
-   {
-      "x":64.8,
-      "y":73.8,
-      "name":"Abandoned Banner"
-   },
-   {
-      "x":68.5,
-      "y":72.2,
-      "name":"Scalper's Sack"
-   },
-   {
-      "x":59.9,
-      "y":22.4,
-      "name":"Fishy Fishing Pole"
-   },
-   {
-      "x":56.7,
-      "y":52.9,
-      "name":"Sailor's Gambeson"
-   },
-   {
-      "x":40.7,
-      "y":34.9,
-      "name":"Scorched Equipment Cache"
-   },
-   {
-      "x":38.1,
-      "y":58.6,
-      "name":"Totem Charged Mace"
-   },
-   {
-      "x":62.1,
-      "y":45,
-      "name":"Floating Cargo"
-   },
-   {
-      "x":47.7,
-      "y":16.2,
-      "name":"Farmer's Old Gear"
-   },
-   {
-      "x":47.7,
-      "y":77.3,
-      "name":"Centaur Axe"
-   },
-   {
-      "x":53.2,
-      "y":81.3,
-      "name":"Apprentice's Harpoon"
-   },
-   {
-      "x":49.1,
-      "y":57.3,
-      "name":"Untouched Cactus Fruit"
-   },
-   {
-      "x":52.1,
-      "y":24.3,
-      "name":"Burning Blade Initiate's Stash"
-   },
-   {
-      "x":55.6,
-      "y":34.5,
-      "name":"Poorly Hidden Dig Site"
-   },
-   {
-      "x":48.6,
-      "y":29.1,
-      "name":"Pillaged Sack"
-   },
-   {
-      "x":52.5,
-      "y":10.4,
-      "name":"Silt Covered Ring"
-   },
-   {
-      "x":51.8,
-      "y":9.8,
-      "name":"Stuck Sword"
-   },
-   {
-      "x":43.8,
-      "y":30.1,
-      "name":"Logsplitter"
-   },
-   {
-      "x":49.1,
-      "y":33,
-      "name":"Harpy Hunter"
-   },
-   {
-      "x":42.5,
-      "y":39.1,
-      "name":"Looted Shield"
-   },
-   {
-      "x":39.4,
-      "y":53.9,
-      "name":"Loot Basket"
-   },
-   {
-      "x":61.5,
-      "y":66,
-      "name":"Makashar's Belongings"
-   },
-   {
-      "x":56.5,
-      "y":20,
-      "name":"Spare Boots"
-   },
-   {
-      "x":44.8,
-      "y":59.7,
-      "name":"Apprentice Staff"
-   },
-   {
-      "x":44.7,
-      "y":66.6,
-      "name":"Stashed Goods"
-   },
-   {
-      "x":40.8,
-      "y":60.4,
-      "name":"Strange Flower"
-   },
-   {
-      "x":44,
-      "y":61.6,
-      "name":"Stuck Sword"
-   },
-   {
-      "x":44.9,
-      "y":55.1,
-      "name":"Demon Skull"
-   },
-   {
-      "x":37.9,
-      "y":46.5,
-      "name":"Champion's Band"
-   },
-   {
-      "x":45.2,
-      "y":56.4,
-      "name":"Pendant of the Sun"
-   }
+    {
+        "x":  36.5,
+        "y":  57.5,
+        "name":  "Southfury Totem",
+        "id":  95627
+    },
+    {
+        "x":  38.1,
+        "y":  58.6,
+        "name":  "Totem Charged Mace",
+        "id":  95636
+    },
+    {
+        "x":  38.9,
+        "y":  60.2,
+        "name":  "Dropped Shield",
+        "id":  520696
+    },
+    {
+        "x":  39.6,
+        "y":  64,
+        "name":  "Loose Palisade",
+        "id":  520697
+    },
+    {
+        "x":  40.5,
+        "y":  67.9,
+        "name":  "Fallen Recruit Footlocker",
+        "id":  90294
+    },
+    {
+        "x":  40.4,
+        "y":  68.6,
+        "name":  "Worn Axe",
+        "id":  90292
+    },
+    {
+        "x":  41.2,
+        "y":  72.8,
+        "name":  "Non-work Approved Bedroll",
+        "id":  90296
+    },
+    {
+        "x":  53.2,
+        "y":  81.3,
+        "name":  "Apprentice\u0027s Harpoon",
+        "id":  95640
+    },
+    {
+        "x":  60.1,
+        "y":  90.1,
+        "name":  "Dead Adventurer",
+        "id":  90593
+    },
+    {
+        "x":  63.2,
+        "y":  98.3,
+        "name":  "Floating Barrel",
+        "id":  90594
+    },
+    {
+        "x":  61.5,
+        "y":  66,
+        "name":  "Makashar\u0027s Belongings",
+        "id":  95666
+    },
+    {
+        "x":  64.7,
+        "y":  73.8,
+        "name":  "Abandoned Banner",
+        "id":  95628
+    },
+    {
+        "x":  68.5,
+        "y":  72.2,
+        "name":  "Scalper\u0027s Sack",
+        "id":  95629
+    },
+    {
+        "x":  68.5,
+        "y":  83.3,
+        "name":  "Bloody Necklace",
+        "id":  95621
+    },
+    {
+        "x":  53.3,
+        "y":  74.4,
+        "name":  "Lost Goods ",
+        "id":  90596
+    },
+    {
+        "x":  47.7,
+        "y":  77.3,
+        "name":  "Centaur Axe",
+        "id":  95639
+    },
+    {
+        "x":  44.3,
+        "y":  77.6,
+        "name":  "Pile of Rocks",
+        "id":  90295
+    },
+    {
+        "x":  49.1,
+        "y":  74.9,
+        "name":  "Shabby Knife",
+        "id":  90606
+    },
+    {
+        "x":  59.9,
+        "y":  59,
+        "name":  "Broken Crate",
+        "id":  90598
+    },
+    {
+        "x":  63.3,
+        "y":  57.5,
+        "name":  "Embedded Sword",
+        "id":  95622
+    },
+    {
+        "x":  49.4,
+        "y":  68.1,
+        "name":  "Forgotten Sack",
+        "id":  90636
+    },
+    {
+        "x":  42.8,
+        "y":  69.5,
+        "name":  "Frang\u0027s Cherry Pie",
+        "id":  90645
+    },
+    {
+        "x":  42.5,
+        "y":  69,
+        "name":  "Mai\u0027ah\u0027s Water Pouch",
+        "id":  90646
+    },
+    {
+        "x":  39.4,
+        "y":  53.9,
+        "name":  "Loot Basket",
+        "id":  95652
+    },
+    {
+        "x":  42.9,
+        "y":  49.6,
+        "name":  "Firestarter",
+        "id":  95626
+    },
+    {
+        "x":  42.4,
+        "y":  53.1,
+        "name":  "Burning Blade Ring",
+        "id":  90297
+    },
+    {
+        "x":  44,
+        "y":  61.6,
+        "name":  "Stuck Sword",
+        "id":  254520
+    },
+    {
+        "x":  45.6,
+        "y":  60,
+        "name":  "Ancient Femur",
+        "id":  520018
+    },
+    {
+        "x":  44.8,
+        "y":  59.7,
+        "name":  "Apprentice Staff",
+        "id":  95670
+    },
+    {
+        "x":  45.5,
+        "y":  63.8,
+        "name":  "Abandoned Peon\u0027s Sack",
+        "id":  90293
+    },
+    {
+        "x":  56.7,
+        "y":  52.9,
+        "name":  "Sailor\u0027s Gambeson",
+        "id":  95632
+    },
+    {
+        "x":  49.1,
+        "y":  57.3,
+        "name":  "Untouched Cactus Fruit",
+        "id":  95641
+    },
+    {
+        "x":  47.6,
+        "y":  55,
+        "name":  "Ancient Jar",
+        "id":  520698
+    },
+    {
+        "x":  48.9,
+        "y":  48.6,
+        "name":  "Quilbow",
+        "id":  95625
+    },
+    {
+        "x":  59.1,
+        "y":  45.4,
+        "name":  "Abandoned Crate",
+        "id":  90599
+    },
+    {
+        "x":  62.1,
+        "y":  45,
+        "name":  "Floating Cargo",
+        "id":  95637
+    },
+    {
+        "x":  55.6,
+        "y":  34.4,
+        "name":  "Retired Shadow Blade",
+        "id":  95643
+    },
+    {
+        "x":  59.9,
+        "y":  22.4,
+        "name":  "Fishy Fishing Pole",
+        "id":  95631
+    },
+    {
+        "x":  52.1,
+        "y":  24.3,
+        "name":  "Burning Blade Initiate\u0027s Stash",
+        "id":  95642
+    },
+    {
+        "x":  51,
+        "y":  19.8,
+        "name":  "Stormwitch Staff",
+        "id":  95623
+    },
+    {
+        "x":  56.5,
+        "y":  20,
+        "name":  "Spare Boots",
+        "id":  95668
+    },
+    {
+        "x":  47.7,
+        "y":  16.2,
+        "name":  "Farmer\u0027s Old Gear",
+        "id":  95638
+    },
+    {
+        "x":  51.8,
+        "y":  9.8,
+        "name":  "Stuck Sword",
+        "id":  95646
+    },
+    {
+        "x":  52.5,
+        "y":  10.4,
+        "name":  "Silt Covered Ring",
+        "id":  95645
+    },
+    {
+        "x":  43.8,
+        "y":  23.8,
+        "name":  "Broken Tail Spike",
+        "id":  95624
+    },
+    {
+        "x":  43.8,
+        "y":  30.1,
+        "name":  "Logsplitter",
+        "id":  95648
+    },
+    {
+        "x":  48.6,
+        "y":  29.1,
+        "name":  "Pillaged Sack",
+        "id":  95644
+    },
+    {
+        "x":  49.1,
+        "y":  33,
+        "name":  "Harpy Hunter",
+        "id":  95650
+    },
+    {
+        "x":  49,
+        "y":  34.8,
+        "name":  "Shiny Hammer",
+        "id":  254633
+    },
+    {
+        "x":  39.4,
+        "y":  45.7,
+        "name":  "Book of Healing",
+        "id":  99012
+    },
+    {
+        "x":  37.9,
+        "y":  46.5,
+        "name":  "Champion\u0027s Band",
+        "id":  517370
+    },
+    {
+        "x":  42.5,
+        "y":  39.1,
+        "name":  "Looted Shield",
+        "id":  95651
+    },
+    {
+        "x":  40.7,
+        "y":  34.9,
+        "name":  "Scorched Equipment Cache",
+        "id":  95633
+    }
 ]
