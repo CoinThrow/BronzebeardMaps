@@ -1,301 +1,301 @@
 [
     {
-        "X":  20.6,
-        "Y":  62.1,
+        "x":  20.6,
+        "y":  62.1,
         "name":  "Fallen Glaive",
         "id":  254411
     },
     {
-        "X":  14.6,
-        "Y":  78.3,
+        "x":  14.6,
+        "y":  78.3,
         "name":  "Drape of the Lost",
         "id":  254410
     },
     {
-        "X":  25.5,
-        "Y":  66.2,
+        "x":  25.5,
+        "y":  66.2,
         "name":  "Buried Statue",
         "id":  254472
     },
     {
-        "X":  26.3,
-        "Y":  76.6,
+        "x":  26.3,
+        "y":  76.6,
         "name":  "Lion\u0027s Claws",
         "id":  254471
     },
     {
-        "X":  27.8,
-        "Y":  55.4,
+        "x":  27.8,
+        "y":  55.4,
         "name":  "Nature\u0027s Bloom",
         "id":  1190586
     },
     {
-        "X":  29.4,
-        "Y":  39.8,
+        "x":  29.4,
+        "y":  39.8,
         "name":  "Arcane Tome",
         "id":  254412
     },
     {
-        "X":  29.9,
-        "Y":  40.1,
+        "x":  29.9,
+        "y":  40.1,
         "name":  "Apprentice\u0027s Wardrobe",
         "id":  254414
     },
     {
-        "X":  29.6,
-        "Y":  40.8,
+        "x":  29.6,
+        "y":  40.8,
         "name":  "Mysterious Arcane Book",
         "id":  2200077
     },
     {
-        "X":  32.2,
-        "Y":  51.9,
+        "x":  32.2,
+        "y":  51.9,
         "name":  "Might of Azshara",
         "id":  254456
     },
     {
-        "X":  28.6,
-        "Y":  81.3,
+        "x":  28.6,
+        "y":  81.3,
         "name":  "Ruin Excavator",
         "id":  254465
     },
     {
-        "X":  36.7,
-        "Y":  75.7,
+        "x":  36.7,
+        "y":  75.7,
         "name":  "Ancient Ring",
         "id":  254455
     },
     {
-        "X":  37.7,
-        "Y":  65.6,
+        "x":  37.7,
+        "y":  65.6,
         "name":  "Peter\u0027s Prototype Pattern",
         "id":  254473
     },
     {
-        "X":  39.5,
-        "Y":  64.4,
+        "x":  39.5,
+        "y":  64.4,
         "name":  "Glowing Shard",
         "id":  254457
     },
     {
-        "X":  35.6,
-        "Y":  35.6,
+        "x":  35.6,
+        "y":  35.6,
         "name":  "Bare Shoes",
         "id":  254462
     },
     {
-        "X":  40.3,
-        "Y":  36.4,
+        "x":  40.3,
+        "y":  36.4,
         "name":  "Miru Berry Bush",
         "id":  254475
     },
     {
-        "X":  39.8,
-        "Y":  46.5,
+        "x":  39.8,
+        "y":  46.5,
         "name":  "Pinned Crossbow",
         "id":  254458
     },
     {
-        "X":  40.5,
-        "Y":  53,
+        "x":  40.5,
+        "y":  53,
         "name":  "Shoulderguards of Zin-Malor",
         "id":  254459
     },
     {
-        "X":  42.4,
-        "Y":  84,
+        "x":  42.4,
+        "y":  84,
         "name":  "Draconic Wand",
         "id":  254450
     },
     {
-        "X":  44.3,
-        "Y":  45.1,
+        "x":  44.3,
+        "y":  45.1,
         "name":  "Ish\u0027thel Falesh, Gaze of Eldara",
         "id":  1546304
     },
     {
-        "X":  49.3,
-        "Y":  34.6,
+        "x":  49.3,
+        "y":  34.6,
         "name":  "Repository of Eldara",
         "id":  254474
     },
     {
-        "X":  49.4,
-        "Y":  41.6,
+        "x":  49.4,
+        "y":  41.6,
         "name":  "Offering",
         "id":  254464
     },
     {
-        "X":  48.9,
-        "Y":  46.7,
+        "x":  48.9,
+        "y":  46.7,
         "name":  "Moonwashed Bow",
         "id":  254467
     },
     {
-        "X":  49.2,
-        "Y":  49.5,
+        "x":  49.2,
+        "y":  49.5,
         "name":  "Waterlogged Tome",
         "id":  590001
     },
     {
-        "X":  47.1,
-        "Y":  59.6,
+        "x":  47.1,
+        "y":  59.6,
         "name":  "Warbanner",
         "id":  254463
     },
     {
-        "X":  45.4,
-        "Y":  90.6,
+        "x":  45.4,
+        "y":  90.6,
         "name":  "Mysterious Barrel",
         "id":  90031
     },
     {
-        "X":  45.2,
-        "Y":  91,
+        "x":  45.2,
+        "y":  91,
         "name":  "Cilkeck\u0027s Toolbox",
         "id":  254439
     },
     {
-        "X":  53.9,
-        "Y":  79.6,
+        "x":  53.9,
+        "y":  79.6,
         "name":  "Crystalized Shield",
         "id":  254453
     },
     {
-        "X":  55.9,
-        "Y":  71.3,
+        "x":  55.9,
+        "y":  71.3,
         "name":  "Beached Necklace",
         "id":  254442
     },
     {
-        "X":  45,
-        "Y":  21.9,
+        "x":  45,
+        "y":  21.9,
         "name":  "Ursolan Totem",
         "id":  254415
     },
     {
-        "X":  53.6,
-        "Y":  21.9,
+        "x":  53.6,
+        "y":  21.9,
         "name":  "Experimental Boots",
         "id":  254417
     },
     {
-        "X":  56,
-        "Y":  30,
+        "x":  56,
+        "y":  30,
         "name":  "Reclaimed Circlet",
         "id":  254449
     },
     {
-        "X":  55.1,
-        "Y":  48.5,
+        "x":  55.1,
+        "y":  48.5,
         "name":  "Old Shell",
         "id":  254446
     },
     {
-        "X":  57.1,
-        "Y":  52.4,
+        "x":  57.1,
+        "y":  52.4,
         "name":  "Shed Hydra Scales",
         "id":  254444
     },
     {
-        "X":  58.3,
-        "Y":  52.9,
+        "x":  58.3,
+        "y":  52.9,
         "name":  "Vuna\u0027thell",
         "id":  254480
     },
     {
-        "X":  60.1,
-        "Y":  65.7,
+        "x":  60.1,
+        "y":  65.7,
         "name":  "Fel Hunter\u0027s Spike",
         "id":  254443
     },
     {
-        "X":  53.9,
-        "Y":  88.1,
+        "x":  53.9,
+        "y":  88.1,
         "name":  "Advanced Pirate Medical Device",
         "id":  254437
     },
     {
-        "X":  59.1,
-        "Y":  40.8,
+        "x":  59.1,
+        "y":  40.8,
         "name":  "Giant\u0027s Storm Dagger",
         "id":  254448
     },
     {
-        "X":  51.9,
-        "Y":  19.5,
+        "x":  51.9,
+        "y":  19.5,
         "name":  "Woven Legashi Basket",
         "id":  254416
     },
     {
-        "X":  54.5,
-        "Y":  10.6,
+        "x":  54.5,
+        "y":  10.6,
         "name":  "Stargazer",
         "id":  254420
     },
     {
-        "X":  61.5,
-        "Y":  25.2,
+        "x":  61.5,
+        "y":  25.2,
         "name":  "Bloody Knife",
         "id":  254418
     },
     {
-        "X":  66.2,
-        "Y":  77,
+        "x":  66.2,
+        "y":  77,
         "name":  "Spitelash Supply Barrel",
         "id":  254436
     },
     {
-        "X":  62.1,
-        "Y":  93.8,
+        "x":  62.1,
+        "y":  93.8,
         "name":  "Buried Cage",
         "id":  254438
     },
     {
-        "X":  71.6,
-        "Y":  84.6,
+        "x":  71.6,
+        "y":  84.6,
         "name":  "Glinting Signet Stone",
         "id":  254434
     },
     {
-        "X":  66.4,
-        "Y":  16.9,
+        "x":  66.4,
+        "y":  16.9,
         "name":  "Legashi Equipment",
         "id":  254419
     },
     {
-        "X":  79.1,
-        "Y":  73.8,
+        "x":  79.1,
+        "y":  73.8,
         "name":  "Duke\u0027s Staff",
         "id":  254468
     },
     {
-        "X":  76,
-        "Y":  39.5,
+        "x":  76,
+        "y":  39.5,
         "name":  "Arkkoran Idol",
         "id":  254431
     },
     {
-        "X":  76.9,
-        "Y":  43.6,
+        "x":  76.9,
+        "y":  43.6,
         "name":  "The Wrath of Arkkoroc",
         "id":  254430
     },
     {
-        "X":  74.4,
-        "Y":  26,
+        "x":  74.4,
+        "y":  26,
         "name":  "Stuck Hammer",
         "id":  254466
     },
     {
-        "X":  84,
-        "Y":  16.9,
+        "x":  84,
+        "y":  16.9,
         "name":  "Heavy Furbolg Basket",
         "id":  254425
     },
     {
-        "X":  90.3,
-        "Y":  35.1,
+        "x":  90.3,
+        "y":  35.1,
         "name":  "Eldara\u0027s Lyre",
         "id":  254429
     }
